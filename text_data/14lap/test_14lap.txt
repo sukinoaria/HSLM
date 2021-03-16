@@ -1,0 +1,6592 @@
+boot	B-T
+time	I-T
+is	O
+super	O
+fast	B-P
+,	O
+around	O
+anywhere	O
+from	O
+35	O
+seconds	O
+to	O
+1	O
+minute	O
+.	O
+#Relations
+4	5	0	2	POS
+
+tech	B-T
+support	I-T
+would	O
+not	B-P
+fix	I-P
+the	O
+problem	O
+unless	O
+i	O
+bought	O
+your	O
+plan	O
+for	O
+$	O
+150	O
+plus	O
+.	O
+#Relations
+3	5	0	2	NEG
+
+set	B-T
+up	I-T
+was	O
+easy	B-P
+.	O
+#Relations
+3	4	0	2	POS
+
+did	O
+not	B-P
+enjoy	I-P
+the	O
+new	O
+windows	B-T
+8	I-T
+and	O
+touchscreen	O
+functions	O
+.	O
+#Relations
+1	3	5	7	NEG
+
+other	O
+than	O
+not	O
+being	O
+a	O
+fan	O
+of	O
+click	O
+pads	O
+(	O
+industry	O
+standard	O
+these	O
+days	O
+)	O
+and	O
+the	O
+lousy	B-P
+internal	B-T
+speakers	I-T
+,	O
+it	O
+'s	O
+hard	O
+for	O
+me	O
+to	O
+find	O
+things	O
+about	O
+this	O
+notebook	O
+i	O
+do	O
+n't	O
+like	O
+,	O
+especially	O
+considering	O
+the	O
+$	O
+350	O
+price	O
+tag	O
+.	O
+#Relations
+17	18	18	20	NEG
+
+it	O
+'s	O
+fast	B-P
+,	O
+light	B-P
+,	O
+and	O
+simple	B-P
+to	O
+use	B-T
+.	O
+#Relations
+2	3	9	10	POS
+4	5	9	10	POS
+7	8	9	10	POS
+
+works	B-T
+well	B-P
+,	O
+and	O
+i	O
+am	O
+extremely	O
+happy	B-P
+to	O
+be	O
+back	O
+to	O
+an	O
+apple	B-T
+os	I-T
+.	O
+#Relations
+1	2	0	1	POS
+7	8	13	15	POS
+
+sure	O
+it	O
+'s	O
+not	B-P
+light	I-P
+and	I-P
+slim	I-P
+but	O
+the	O
+features	B-T
+make	O
+up	O
+for	O
+it	O
+100	O
+%	O
+.	O
+#Relations
+3	7	9	10	POS
+
+i	O
+am	O
+pleased	B-P
+with	O
+the	O
+fast	B-P
+log	B-T
+on	I-T
+,	O
+speedy	B-P
+wifi	B-T
+connection	I-T
+and	O
+the	O
+long	B-P
+battery	B-T
+life	I-T
+(	O
+>	O
+6	O
+hrs	O
+)	O
+.	O
+#Relations
+2	3	6	8	POS
+5	6	6	8	POS
+9	10	10	12	POS
+14	15	15	17	POS
+
+the	O
+apple	O
+engineers	O
+have	O
+not	B-P
+yet	I-P
+discovered	I-P
+the	O
+delete	B-T
+key	I-T
+.	O
+#Relations
+4	7	8	10	NEG
+
+made	O
+interneting	B-T
+(	O
+part	O
+of	O
+my	O
+business	O
+)	O
+very	O
+difficult	B-P
+to	O
+maintain	O
+.	O
+#Relations
+9	10	1	2	NEG
+
+luckily	O
+,	O
+for	O
+all	O
+of	O
+us	O
+contemplating	O
+the	O
+decision	O
+,	O
+the	O
+mac	O
+mini	O
+is	O
+priced	B-T
+just	O
+right	B-P
+.	O
+#Relations
+16	17	14	15	POS
+
+only	O
+problem	O
+that	O
+i	O
+had	O
+was	O
+that	O
+the	O
+track	B-T
+pad	I-T
+was	O
+not	B-P
+very	I-P
+good	I-P
+for	O
+me	O
+,	O
+i	O
+only	O
+had	O
+a	O
+problem	O
+once	O
+or	O
+twice	O
+with	O
+it	O
+,	O
+but	O
+probably	O
+my	O
+computer	O
+was	O
+a	O
+bit	O
+defective	O
+.	O
+#Relations
+11	14	8	10	NEG
+
+it	O
+is	O
+super	O
+fast	O
+and	O
+has	O
+outstanding	B-P
+graphics	B-T
+.	O
+#Relations
+6	7	7	8	POS
+
+but	O
+the	O
+mountain	B-T
+lion	I-T
+is	O
+just	O
+too	O
+slow	B-P
+.	O
+#Relations
+7	8	2	4	NEG
+
+strong	B-P
+build	O
+though	O
+which	O
+really	O
+adds	O
+to	O
+its	O
+durability	B-T
+.	O
+#Relations
+0	1	8	9	POS
+
+the	O
+battery	B-T
+life	I-T
+is	O
+excellent	B-P
+--	O
+6-7	O
+hours	O
+without	O
+charging	O
+.	O
+#Relations
+4	5	1	3	POS
+
+i	O
+'ve	O
+had	O
+my	O
+computer	O
+for	O
+2	O
+weeks	O
+already	O
+and	O
+it	O
+works	B-T
+perfectly	B-P
+.	O
+#Relations
+12	13	11	12	POS
+
+and	O
+i	O
+may	O
+be	O
+the	O
+only	O
+one	O
+but	O
+i	O
+am	O
+really	O
+liking	B-P
+windows	B-T
+8	I-T
+.	O
+#Relations
+11	12	12	14	POS
+
+the	O
+baterry	B-T
+is	O
+very	O
+longer	B-P
+.	O
+#Relations
+4	5	1	2	POS
+
+its	O
+size	B-T
+is	O
+ideal	B-P
+and	O
+the	O
+weight	B-T
+is	O
+acceptable	B-P
+.	O
+#Relations
+3	4	1	2	POS
+8	9	6	7	POS
+
+i	O
+can	O
+say	O
+that	O
+i	O
+am	O
+fully	O
+satisfied	B-P
+with	O
+the	O
+performance	B-T
+that	O
+the	O
+computer	O
+has	O
+supplied	O
+.	O
+#Relations
+7	8	10	11	POS
+
+it	O
+has	O
+so	O
+much	B-P
+more	I-P
+speed	B-T
+and	O
+the	O
+screen	B-T
+is	O
+very	O
+sharp	B-P
+.	O
+#Relations
+3	5	5	6	POS
+11	12	8	9	POS
+
+everything	O
+i	O
+wanted	O
+and	O
+everything	O
+i	O
+needed	O
+and	O
+the	O
+price	B-T
+was	O
+great	B-P
+!	O
+#Relations
+11	12	9	10	POS
+
+it	O
+'s	O
+not	O
+inexpensive	O
+but	O
+the	O
+hardware	B-T
+performance	I-T
+is	O
+impressive	B-P
+for	O
+a	O
+computer	O
+this	O
+small	O
+.	O
+#Relations
+9	10	6	8	POS
+
+this	O
+thing	O
+is	O
+awesome	O
+,	O
+everything	O
+always	B-P
+works	B-T
+,	O
+everything	O
+is	O
+always	O
+easy	B-P
+to	O
+set	B-T
+up	I-T
+,	O
+everything	O
+is	O
+compatible	O
+,	O
+its	O
+literally	O
+everything	O
+i	O
+could	O
+ask	O
+for	O
+.	O
+#Relations
+6	7	7	8	POS
+12	13	14	16	POS
+
+keyboard	B-T
+responds	B-P
+well	I-P
+to	O
+presses	O
+.	O
+#Relations
+1	3	0	1	POS
+
+lastly	O
+,	O
+windows	B-T
+8	I-T
+is	O
+annoying	B-P
+.	O
+#Relations
+5	6	2	4	NEG
+
+everything	O
+is	O
+so	O
+easy	B-P
+and	O
+intuitive	B-P
+to	O
+setup	B-T
+or	O
+configure	O
+.	O
+#Relations
+3	4	7	8	POS
+5	6	7	8	POS
+
+biggest	O
+complaint	B-P
+is	O
+windows	B-T
+8	I-T
+.	O
+#Relations
+1	2	3	5	NEG
+
+only	O
+2	O
+usb	B-T
+ports	I-T
+...	O
+seems	O
+kind	O
+of	O
+...	O
+limited	B-P
+.	O
+#Relations
+9	10	2	4	NEG
+
+it	O
+has	O
+all	O
+the	O
+expected	B-P
+features	B-T
+and	O
+more	O
++plus	O
+a	O
+wide	B-P
+screen	B-T
+and	O
+more	O
+than	O
+roomy	B-P
+keyboard	B-T
+.	O
+#Relations
+4	5	5	6	POS
+10	11	11	12	POS
+15	16	16	17	POS
+
+amazing	B-P
+performance	B-T
+for	O
+anything	O
+i	O
+throw	O
+at	O
+it	O
+.	O
+#Relations
+0	1	1	2	POS
+
+the	O
+receiver	O
+was	O
+full	O
+of	O
+superlatives	B-P
+for	O
+the	O
+quality	B-T
+and	O
+performance	O
+.	O
+#Relations
+5	6	8	9	POS
+
+i	O
+was	O
+extremely	O
+happy	B-P
+with	O
+the	O
+os	B-T
+itself	O
+.	O
+#Relations
+3	4	6	7	POS
+
+the	O
+new	O
+mbp	O
+offers	O
+great	B-P
+portability	B-T
+and	O
+gives	O
+us	O
+confidence	O
+that	O
+we	O
+are	O
+not	O
+going	O
+to	O
+need	O
+to	O
+purchase	O
+a	O
+new	O
+laptop	O
+in	O
+18	O
+months	O
+.	O
+#Relations
+4	5	5	6	POS
+
+the	O
+criticism	O
+has	O
+waned	O
+,	O
+and	O
+now	O
+i	O
+'d	O
+be	O
+the	O
+first	O
+to	O
+recommend	B-P
+an	O
+air	O
+for	O
+truly	B-P
+portable	B-T
+computing	I-T
+.	O
+#Relations
+13	14	18	20	POS
+17	18	18	20	POS
+
+ms	B-T
+office	I-T
+2011	I-T
+for	I-T
+mac	I-T
+is	O
+wonderful	B-P
+,	O
+well	B-P
+worth	I-P
+it	O
+.	O
+#Relations
+6	7	0	5	POS
+8	10	0	5	POS
+
+but	O
+the	O
+performance	B-T
+of	O
+mac	O
+mini	O
+is	O
+a	O
+huge	O
+disappointment	B-P
+.	O
+#Relations
+9	10	2	3	NEG
+
+they	O
+do	O
+n't	O
+just	O
+look	B-T
+good	B-P
+;	O
+they	O
+deliver	O
+excellent	B-P
+performance	B-T
+.	O
+#Relations
+5	6	4	5	POS
+9	10	10	11	POS
+
+i	O
+have	O
+had	O
+it	O
+over	O
+a	O
+year	O
+now	O
+with	O
+out	O
+a	O
+glitch	O
+of	O
+any	O
+kind..i	O
+love	B-P
+the	O
+lit	B-T
+up	I-T
+keys	I-T
+and	O
+screen	O
+display	O
+...	O
+this	O
+thing	O
+is	O
+fast	B-P
+and	O
+clear	B-P
+as	O
+can	O
+be	O
+.	O
+#Relations
+15	16	17	20	POS
+27	28	17	20	POS
+29	30	17	20	POS
+
+the	O
+mountain	B-T
+lion	I-T
+os	I-T
+is	O
+not	B-P
+hard	I-P
+to	O
+figure	O
+out	O
+if	O
+you	O
+are	O
+familiar	B-P
+with	O
+microsoft	B-T
+windows	I-T
+.	O
+#Relations
+5	7	1	4	POS
+13	14	15	17	NEU
+
+however	O
+,	O
+i	O
+can	O
+refute	O
+that	O
+osx	B-T
+is	O
+``	O
+fast	B-P
+''	O
+.	O
+#Relations
+9	10	6	7	NEG
+
+enjoy	B-P
+using	O
+microsoft	B-T
+office	I-T
+!	O
+#Relations
+0	1	2	4	POS
+
+incredible	B-P
+graphics	B-T
+and	O
+brilliant	B-P
+colors	B-T
+.	O
+#Relations
+0	1	1	2	POS
+3	4	4	5	POS
+
+built-in	B-T
+apps	I-T
+are	O
+purely	O
+amazing	B-P
+.	O
+#Relations
+4	5	0	2	POS
+
+from	O
+the	O
+speed	O
+to	O
+the	O
+multi	O
+touch	O
+gestures	O
+this	O
+operating	B-T
+system	I-T
+beats	B-P
+windows	O
+easily	O
+.	O
+#Relations
+11	12	9	11	POS
+
+i	O
+really	O
+like	B-P
+the	O
+size	B-T
+and	O
+i	O
+'m	O
+a	O
+fan	O
+of	O
+the	O
+acers	O
+.	O
+#Relations
+2	3	4	5	POS
+
+i	O
+opted	O
+for	O
+the	O
+squaretrade	B-T
+3-year	I-T
+computer	I-T
+accidental	I-T
+protection	I-T
+warranty	I-T
+(	O
+$	O
+1500-2000	O
+)	O
+which	O
+also	O
+support	B-P
+``	O
+accidents	O
+''	O
+like	O
+drops	O
+and	O
+spills	O
+that	O
+are	O
+not	B-P
+covered	I-P
+by	O
+applecare	B-T
+.	O
+#Relations
+16	17	4	10	POS
+26	28	29	30	NEG
+
+it	O
+'s	O
+light	B-P
+and	O
+easy	B-P
+to	O
+transport	B-T
+.	O
+#Relations
+2	3	6	7	POS
+4	5	6	7	POS
+
+once	O
+you	O
+get	O
+past	O
+learning	O
+how	O
+to	O
+use	O
+the	O
+poorly	B-P
+designed	I-P
+windows	B-T
+8	I-T
+set-up	I-T
+you	O
+may	O
+feel	O
+frustrated	B-P
+.	O
+#Relations
+9	11	11	14	NEG
+17	18	11	14	NEG
+
+the	O
+aluminum	B-T
+body	I-T
+sure	O
+makes	O
+it	O
+stand	B-P
+out	I-P
+.	O
+#Relations
+6	8	1	3	POS
+
+it	O
+is	O
+very	O
+easy	B-P
+to	O
+integrate	B-T
+bluetooth	I-T
+devices	I-T
+,	O
+and	O
+usb	B-T
+devices	I-T
+are	O
+recognized	O
+almost	O
+instantly	B-P
+.	O
+#Relations
+3	4	5	8	POS
+15	16	10	12	POS
+
+and	O
+the	O
+fact	O
+that	O
+apple	O
+is	O
+driving	O
+the	O
+13	O
+''	O
+rmbp	O
+with	O
+the	O
+intel4000	B-T
+graphic	I-T
+chip	I-T
+seems	O
+underpowered	B-P
+(	O
+to	O
+me	O
+.	O
+#Relations
+17	18	13	16	NEG
+
+apple	O
+removed	B-P
+the	O
+dvd	B-T
+drive	I-T
+firewire	I-T
+port	I-T
+(	O
+will	O
+work	O
+with	O
+adapter	O
+)	O
+and	O
+put	O
+the	O
+sdxc	B-T
+slot	I-T
+in	O
+a	O
+silly	B-P
+position	O
+on	O
+the	O
+back	O
+.	O
+#Relations
+1	2	3	7	NEU
+20	21	16	18	NEG
+
+the	O
+durability	B-T
+of	O
+the	O
+laptop	O
+will	O
+make	O
+it	O
+worth	B-P
+the	O
+money	O
+.	O
+#Relations
+8	9	1	2	POS
+
+well	B-P
+designed	B-T
+and	O
+fast	O
+.	O
+#Relations
+0	1	1	2	POS
+
+but	O
+i	O
+was	O
+completely	O
+wrong	O
+,	O
+this	O
+computer	O
+is	O
+unbelievable	O
+amazing	O
+and	O
+easy	B-P
+to	O
+use	B-T
+.	O
+#Relations
+12	13	14	15	POS
+
+exactly	O
+as	O
+posted	O
+plus	O
+a	O
+great	B-P
+value	B-T
+.	O
+#Relations
+5	6	6	7	POS
+
+the	O
+specs	B-T
+are	O
+pretty	O
+good	B-P
+too	O
+.	O
+#Relations
+4	5	1	2	POS
+
+apple	O
+is	O
+unmatched	B-P
+in	O
+product	B-T
+quality	I-T
+,	O
+aesthetics	O
+,	O
+craftmanship	O
+,	O
+and	O
+customer	O
+service	O
+.	O
+#Relations
+2	3	4	6	POS
+
+it	O
+is	O
+a	O
+great	B-P
+size	B-T
+and	O
+amazing	B-P
+windows	B-T
+8	I-T
+included	O
+!	O
+#Relations
+3	4	4	5	POS
+6	7	7	9	POS
+
+i	O
+do	O
+not	B-P
+like	I-P
+too	O
+much	O
+windows	B-T
+8	I-T
+.	O
+#Relations
+2	4	6	8	NEG
+
+startup	B-T
+times	I-T
+are	O
+incredibly	O
+long	B-P
+:	O
+over	O
+two	O
+minutes	O
+.	O
+#Relations
+4	5	0	2	NEG
+
+also	O
+stunning	B-P
+colors	B-T
+and	O
+speedy	O
+#Relations
+1	2	2	3	POS
+
+great	B-P
+price	B-T
+free	B-P
+shipping	B-T
+what	O
+else	O
+can	O
+i	O
+ask	O
+for	O
+!	O
+!	O
+#Relations
+0	1	1	2	POS
+2	3	3	4	POS
+
+this	O
+mouse	B-T
+is	O
+terrific	B-P
+.	O
+#Relations
+3	4	1	2	POS
+
+it	O
+is	O
+really	O
+thick	B-P
+around	O
+the	O
+battery	B-T
+.	O
+#Relations
+3	4	6	7	NEU
+
+and	O
+windows	B-T
+7	I-T
+works	O
+like	O
+a	O
+charm	B-P
+.	O
+#Relations
+6	7	1	3	POS
+
+:	O
+)	O
+great	O
+product	O
+,	O
+great	B-P
+price	B-T
+,	O
+great	B-P
+delivery	B-T
+,	O
+and	O
+great	B-P
+service	B-T
+.	O
+#Relations
+5	6	6	7	POS
+8	9	9	10	POS
+12	13	13	14	POS
+
+:	O
+]	O
+it	O
+arrived	O
+so	O
+fast	O
+and	O
+customer	B-T
+service	I-T
+was	O
+great	B-P
+.	O
+#Relations
+10	11	7	9	POS
+
+tried	O
+windows	B-T
+8	I-T
+and	O
+hated	B-P
+it	O
+!	O
+!	O
+!	O
+#Relations
+4	5	1	3	NEG
+
+the	O
+price	B-T
+is	O
+higher	B-P
+than	O
+most	O
+lab	O
+top	O
+out	O
+there	O
+;	O
+however	O
+,	O
+he/she	O
+will	O
+get	O
+what	O
+they	O
+paid	O
+for	O
+,	O
+which	O
+is	O
+a	O
+great	O
+computer	O
+.	O
+#Relations
+3	4	1	2	POS
+
+set	B-T
+up	I-T
+was	O
+a	O
+breeze	B-P
+.	O
+#Relations
+4	5	0	2	POS
+
+but	O
+i	O
+do	O
+not	B-P
+like	I-P
+win8	B-T
+.	O
+#Relations
+3	5	5	6	NEG
+
+i	O
+had	O
+the	O
+same	O
+reasons	O
+as	O
+most	O
+pc	O
+users	O
+:	O
+the	O
+price	O
+,	O
+the	O
+overbearing	B-P
+restrictions	O
+of	O
+osx	B-T
+and	O
+lack	B-P
+of	O
+support	B-T
+for	I-T
+games	I-T
+.	O
+#Relations
+14	15	17	18	NEG
+19	20	21	24	NEG
+
+i	O
+wanted	O
+it	O
+for	O
+it	O
+'s	O
+mobility	B-T
+and	O
+man	O
+,	O
+this	O
+little	O
+bad	O
+boy	O
+is	O
+very	O
+nice	B-P
+.	O
+#Relations
+16	17	6	7	POS
+
+the	O
+investment	O
+of	O
+a	O
+new	O
+macbook	O
+pro	O
+came	O
+at	O
+a	O
+price	B-T
+,	O
+but	O
+totally	O
+worth	B-P
+it	O
+for	O
+a	O
+good	O
+piece	O
+of	O
+mind	O
+.	O
+#Relations
+14	15	10	11	POS
+
+i	O
+found	O
+the	O
+mini	O
+to	O
+be	O
+:	O
+exceptionally	O
+easy	B-P
+to	O
+set	B-T
+up	I-T
+#Relations
+8	9	10	12	POS
+
+the	O
+sound	B-T
+is	O
+nice	B-P
+and	O
+loud	B-P
+;	O
+i	O
+do	O
+n't	O
+have	O
+any	O
+problems	O
+with	O
+hearing	O
+anything	O
+.	O
+#Relations
+3	4	1	2	POS
+5	6	1	2	POS
+
+it	O
+is	O
+very	O
+slim	B-P
+,	O
+the	O
+track	B-T
+pad	I-T
+is	O
+very	O
+much	O
+impressed	B-P
+with	O
+me	O
+.	O
+#Relations
+3	4	6	8	POS
+11	12	6	8	POS
+
+the	O
+settings	B-T
+are	O
+not	B-P
+user-friendly	I-P
+either	O
+.	O
+#Relations
+3	5	1	2	NEG
+
+thank	O
+goodness	B-P
+for	O
+openoffice	B-T
+!	O
+#Relations
+1	2	3	4	POS
+
+awesome	B-P
+form	B-T
+factor	I-T
+,	O
+great	B-P
+battery	B-T
+life	I-T
+,	O
+wonderful	B-P
+ux	B-T
+.	O
+#Relations
+0	1	1	3	POS
+4	5	5	7	POS
+8	9	9	10	POS
+
+i	O
+love	B-P
+the	O
+keyboard	B-T
+and	O
+the	O
+screen	O
+.	O
+#Relations
+1	2	3	4	POS
+
+however	O
+,	O
+there	O
+are	O
+major	O
+issues	B-P
+with	O
+the	O
+touchpad	B-T
+which	O
+render	O
+the	O
+device	O
+nearly	O
+useless	B-P
+.	O
+#Relations
+5	6	8	9	NEG
+14	15	8	9	NEG
+
+i	O
+'ve	O
+already	O
+upgraded	O
+o	O
+mavericks	B-T
+and	O
+i	O
+am	O
+impressed	B-P
+with	O
+everything	O
+about	O
+this	O
+computer	O
+.	O
+#Relations
+9	10	5	6	POS
+
+not	B-P
+as	I-P
+fast	I-P
+as	O
+i	O
+would	O
+have	O
+expect	O
+for	O
+an	O
+i5	B-T
+.	O
+#Relations
+0	3	10	11	NEG
+
+thanks	O
+for	O
+great	B-P
+service	B-T
+and	O
+shipping	O
+!	O
+#Relations
+2	3	3	4	POS
+
+the	O
+performance	B-T
+seems	O
+quite	O
+good	B-P
+,	O
+and	O
+built-in	B-T
+applications	I-T
+like	O
+iphoto	O
+work	O
+great	B-P
+with	O
+my	O
+phone	O
+and	O
+camera	O
+.	O
+#Relations
+4	5	1	2	POS
+12	13	7	9	POS
+
+i	O
+did	O
+swap	O
+out	O
+the	O
+hard	O
+drive	O
+for	O
+a	O
+samsung	B-T
+830	I-T
+ssd	I-T
+which	O
+i	O
+highly	O
+recommend	B-P
+.	O
+#Relations
+15	16	9	12	POS
+
+yes	O
+,	O
+that	O
+'s	O
+a	O
+good	O
+thing	O
+,	O
+but	O
+it	O
+'s	O
+made	O
+from	O
+aluminum	B-T
+that	O
+scratches	B-P
+easily	I-P
+.	O
+#Relations
+15	17	13	14	NEG
+
+i	O
+was	O
+also	O
+informed	O
+that	O
+the	O
+components	B-T
+of	O
+the	O
+mac	O
+book	O
+were	O
+dirty	B-P
+.	O
+#Relations
+12	13	6	7	NEG
+
+the	O
+hardware	B-T
+problems	O
+have	O
+been	O
+so	O
+bad	B-P
+,	O
+i	O
+ca	O
+n't	O
+wait	O
+till	O
+it	O
+completely	O
+dies	O
+in	O
+3	O
+years	O
+,	O
+tops	O
+!	O
+#Relations
+6	7	1	2	NEG
+
+it	O
+'s	O
+so	O
+nice	B-P
+that	O
+the	O
+battery	B-T
+last	O
+so	O
+long	B-P
+and	O
+that	O
+this	O
+machine	O
+has	O
+the	O
+snow	O
+lion	O
+!	O
+#Relations
+3	4	6	7	POS
+9	10	6	7	POS
+
+it	O
+'s	O
+exactly	O
+what	O
+i	O
+wanted	B-P
+,	O
+and	O
+it	O
+has	O
+all	O
+the	O
+new	B-P
+features	B-T
+and	O
+whatnot	O
+.	O
+#Relations
+5	6	13	14	POS
+12	13	13	14	POS
+
+it	O
+feels	O
+cheap	B-P
+,	O
+the	O
+keyboard	B-T
+is	O
+not	B-P
+very	I-P
+sensitive	I-P
+.	O
+#Relations
+2	3	5	6	NEG
+7	10	5	6	NEG
+
+though	O
+please	O
+note	O
+that	O
+sometimes	O
+it	O
+crashes	O
+,	O
+and	O
+the	O
+sound	B-T
+quality	I-T
+isnt	B-P
+superb	I-P
+.	O
+#Relations
+12	14	10	12	NEG
+
+it	O
+is	O
+very	O
+easy	B-P
+to	O
+navigate	B-T
+even	O
+for	O
+a	O
+novice	O
+.	O
+#Relations
+3	4	5	6	POS
+
+does	O
+everything	O
+i	O
+need	O
+it	O
+to	O
+,	O
+has	O
+a	O
+wonderful	B-P
+battery	B-T
+life	I-T
+and	O
+i	O
+could	O
+n't	O
+be	O
+happier	O
+.	O
+#Relations
+9	10	10	12	POS
+
+great	B-P
+performance	B-T
+and	O
+quality	O
+.	O
+#Relations
+0	1	1	2	POS
+
+one	O
+more	O
+thing	O
+,	O
+this	O
+mac	O
+does	O
+not	O
+come	O
+with	O
+restore	O
+disks	O
+and	O
+i	O
+am	O
+not	O
+sure	O
+if	O
+you	O
+can	O
+make	O
+them	O
+direct	O
+from	O
+the	O
+mac	O
+like	O
+you	O
+can	O
+with	O
+newer	O
+pc	O
+'s	O
+,	O
+also	O
+the	O
+charging	O
+cables	O
+are	O
+made	O
+of	O
+the	O
+same	O
+cheap	B-P
+material	B-T
+as	O
+the	O
+iphone/ipod	O
+touch	O
+cables	O
+.	O
+#Relations
+43	44	44	45	NEG
+
+the	O
+new	O
+os	B-T
+is	O
+great	B-P
+on	O
+my	O
+macbook	O
+pro	O
+!	O
+#Relations
+4	5	2	3	POS
+
+i	O
+had	O
+a	O
+little	O
+problem	O
+adjusting	O
+to	O
+the	O
+small	B-P
+screen	B-T
+but	O
+works	O
+fine	O
+as	O
+long	O
+as	O
+i	O
+remember	O
+to	O
+carry	O
+my	O
+glasses	O
+.	O
+#Relations
+8	9	9	10	POS
+
+i	O
+have	O
+experienced	O
+no	O
+problems	O
+,	O
+works	B-T
+as	B-P
+anticipated	I-P
+.	O
+#Relations
+7	9	6	7	POS
+
+system	B-T
+is	O
+running	O
+great	B-P
+.	O
+#Relations
+3	4	0	1	POS
+
+easy	B-P
+to	O
+customize	B-T
+setting	I-T
+and	O
+even	O
+create	O
+your	O
+own	O
+bookmarks	O
+.	O
+#Relations
+0	1	2	4	POS
+
+it	O
+has	O
+all	O
+the	O
+features	O
+that	O
+we	O
+expected	O
+and	O
+the	O
+price	B-T
+was	O
+good	B-P
+,	O
+working	B-T
+well	B-P
+so	O
+far	O
+.	O
+#Relations
+12	13	10	11	POS
+15	16	14	15	POS
+
+the	O
+new	B-P
+operating	B-T
+system	I-T
+makes	O
+this	O
+computer	O
+into	O
+a	O
+super	O
+ipad	O
+.	O
+#Relations
+1	2	2	4	POS
+
+easy	B-P
+to	O
+set	B-T
+up	I-T
+and	O
+go	O
+!	O
+#Relations
+0	1	2	4	POS
+
+i	O
+ca	O
+n't	O
+believe	O
+how	O
+quiet	B-P
+the	O
+hard	B-T
+drive	I-T
+is	O
+and	O
+how	O
+quick	B-P
+this	O
+thing	O
+boots	B-T
+up	I-T
+.	O
+#Relations
+5	6	7	9	POS
+12	13	15	17	POS
+
+it	O
+'s	O
+just	O
+what	O
+we	O
+were	O
+looking	O
+for	O
+and	O
+it	O
+works	B-T
+great	B-P
+.	O
+#Relations
+11	12	10	11	POS
+
+it	O
+'s	O
+so	O
+quick	O
+and	O
+responsive	O
+that	O
+it	O
+makes	O
+working	B-T
+/	O
+surfing	O
+on	O
+a	O
+computer	O
+so	O
+much	O
+more	O
+pleasurable	B-P
+!	O
+#Relations
+18	19	9	10	POS
+
+it	O
+works	B-T
+fine	B-P
+,	O
+and	O
+all	O
+the	O
+software	B-T
+seems	O
+to	O
+run	O
+pretty	O
+well	B-P
+.	O
+#Relations
+2	3	1	2	POS
+12	13	7	8	POS
+
+i	O
+wanted	O
+a	O
+computer	O
+that	O
+was	O
+quite	O
+,	O
+fast	O
+,	O
+and	O
+that	O
+had	O
+overall	O
+great	B-P
+performance	B-T
+.	O
+#Relations
+14	15	15	16	NEU
+
+harddrive	B-T
+was	O
+in	O
+poor	B-P
+condition	O
+,	O
+had	O
+to	O
+replace	O
+it	O
+.	O
+#Relations
+3	4	0	1	NEG
+
+the	O
+on/off	B-T
+switch	I-T
+is	O
+a	O
+bit	O
+obscure	B-P
+in	O
+the	O
+rear	O
+corner	O
+.	O
+#Relations
+6	7	1	3	NEG
+
+my	O
+only	O
+complaint	O
+is	O
+the	O
+total	O
+lack	B-P
+of	O
+instructions	B-T
+that	O
+come	O
+with	O
+the	O
+mac	O
+mini	O
+.	O
+#Relations
+6	7	8	9	NEG
+
+the	O
+only	O
+task	O
+that	O
+this	O
+computer	O
+would	O
+not	B-P
+be	I-P
+good	I-P
+enough	O
+for	O
+would	O
+be	O
+gaming	B-T
+,	O
+otherwise	O
+the	O
+integrated	B-T
+intel	I-T
+4000	I-T
+graphics	I-T
+work	O
+well	B-P
+for	O
+other	O
+tasks	O
+.	O
+#Relations
+7	10	14	15	NEG
+23	24	18	22	POS
+
+i	O
+'m	O
+hoping	O
+the	O
+rest	O
+of	O
+the	O
+features	B-T
+will	O
+be	O
+the	O
+signature	B-P
+quality	O
+of	O
+apple	O
+.	O
+#Relations
+11	12	7	8	POS
+
+i	O
+use	O
+it	O
+mostly	O
+for	O
+content	O
+creation	O
+(	O
+audio	B-T
+,	O
+video	O
+,	O
+photo	O
+editing	O
+)	O
+and	O
+its	O
+reliable	B-P
+.	O
+#Relations
+17	18	8	9	POS
+
+screen	B-T
+is	O
+bright	B-P
+and	O
+gorgeous	B-P
+.	O
+#Relations
+2	3	0	1	POS
+4	5	0	1	POS
+
+it	O
+is	O
+robust	O
+,	O
+with	O
+a	O
+friendly	B-P
+use	B-T
+as	O
+all	O
+apple	O
+products	O
+.	O
+#Relations
+6	7	7	8	POS
+
+it	O
+is	O
+fast	O
+and	O
+easy	B-P
+to	O
+use	B-T
+.	O
+#Relations
+4	5	6	7	POS
+
+and	O
+the	O
+fact	O
+that	O
+it	O
+comes	O
+with	O
+an	O
+i5	B-T
+processor	I-T
+definitely	O
+speeds	B-P
+things	I-P
+up	I-P
+#Relations
+11	14	8	10	POS
+
+i	O
+have	O
+been	O
+pc	O
+for	O
+years	O
+but	O
+this	O
+computer	O
+is	O
+intuitive	O
+and	O
+its	O
+built	B-T
+in	I-T
+features	I-T
+are	O
+a	O
+great	B-P
+help	I-P
+#Relations
+18	20	13	16	POS
+
+nice	B-P
+screen	B-T
+,	O
+keyboard	B-T
+works	O
+great	B-P
+!	O
+#Relations
+0	1	1	2	POS
+5	6	3	4	POS
+
+i	O
+was	O
+amazed	B-P
+at	O
+how	O
+fast	B-P
+the	O
+delivery	B-T
+was	O
+.	O
+#Relations
+2	3	7	8	POS
+5	6	7	8	POS
+
+the	O
+memory	B-T
+was	O
+gone	B-P
+and	O
+it	O
+was	O
+not	B-P
+able	I-P
+to	I-P
+be	I-P
+used	I-P
+.	O
+#Relations
+3	4	1	2	NEG
+7	12	1	2	NEG
+
+it	O
+works	B-T
+great	B-P
+and	O
+i	O
+am	O
+so	O
+happy	O
+i	O
+bought	O
+it	O
+.	O
+#Relations
+2	3	1	2	POS
+
+i	O
+like	B-P
+the	O
+design	B-T
+and	O
+ease	B-P
+of	I-P
+use	I-P
+with	O
+the	O
+keyboard	B-T
+,	O
+plenty	B-P
+of	O
+ports	B-T
+.	O
+#Relations
+1	2	3	4	POS
+5	8	10	11	POS
+12	13	14	15	POS
+
+it	O
+definitely	O
+beats	O
+my	O
+old	O
+mac	O
+and	O
+the	O
+service	B-T
+was	O
+great	B-P
+.	O
+#Relations
+10	11	8	9	POS
+
+web	B-T
+browsing	I-T
+is	O
+very	O
+quick	B-P
+with	O
+safari	O
+browser	O
+.	O
+#Relations
+4	5	0	2	POS
+
+i	O
+like	B-P
+the	O
+lighted	B-T
+screen	I-T
+at	O
+night	O
+.	O
+#Relations
+1	2	3	5	POS
+
+it	O
+is	O
+really	O
+easy	B-P
+to	O
+use	B-T
+and	O
+it	O
+is	O
+quick	B-P
+to	O
+start	B-T
+up	I-T
+.	O
+#Relations
+3	4	5	6	POS
+9	10	11	13	POS
+
+i	O
+'ve	O
+lived	O
+with	O
+the	O
+crashes	O
+and	O
+slow	B-P
+operation	B-T
+and	O
+restarts	O
+.	O
+#Relations
+7	8	8	9	NEG
+
+usb3	B-T
+peripherals	I-T
+are	O
+noticably	O
+less	B-P
+expensive	I-P
+than	O
+the	O
+thunderbolt	O
+ones	O
+.	O
+#Relations
+4	6	0	2	POS
+
+it	O
+'s	O
+fast	O
+,	O
+light	O
+,	O
+and	O
+is	O
+perfect	B-P
+for	O
+media	B-T
+editing	I-T
+,	O
+which	O
+is	O
+mostly	O
+why	O
+i	O
+bought	O
+it	O
+in	O
+the	O
+first	O
+place	O
+.	O
+#Relations
+8	9	10	12	POS
+
+the	O
+battery	O
+lasts	O
+as	O
+advertised	O
+(	O
+give	O
+or	O
+take	O
+15-20	O
+minutes	O
+)	O
+,	O
+and	O
+the	O
+entire	O
+user	B-T
+experience	I-T
+is	O
+very	O
+elegant	B-P
+.	O
+#Relations
+20	21	16	18	POS
+
+thanks	O
+for	O
+the	O
+fast	B-P
+shipment	B-T
+and	O
+great	B-P
+price	B-T
+.	O
+#Relations
+3	4	4	5	POS
+6	7	7	8	POS
+
+!	O
+excellent	B-P
+performance	B-T
+,	O
+usability	O
+,	O
+presentation	O
+and	O
+time	O
+response	O
+.	O
+#Relations
+1	2	2	3	POS
+
+the	O
+smaller	B-P
+size	B-T
+was	O
+a	O
+bonus	B-P
+because	O
+of	O
+space	O
+restrictions	O
+.	O
+#Relations
+1	2	2	3	POS
+5	6	2	3	POS
+
+i	O
+blame	B-P
+the	O
+mac	B-T
+os	I-T
+.	O
+#Relations
+1	2	3	5	NEG
+
+i	O
+like	B-P
+the	O
+operating	B-T
+system	I-T
+.	O
+#Relations
+1	2	3	5	POS
+
+i	O
+love	B-P
+the	O
+form	B-T
+factor	I-T
+.	O
+#Relations
+1	2	3	5	POS
+
+it	O
+'s	O
+fast	B-P
+at	O
+loading	B-T
+the	I-T
+internet	I-T
+.	O
+#Relations
+2	3	4	7	POS
+
+so	O
+much	O
+faster	B-P
+and	O
+sleeker	B-P
+looking	B-T
+.	O
+#Relations
+2	3	5	6	POS
+4	5	5	6	POS
+
+unfortunately	B-P
+,	O
+it	O
+runs	O
+xp	B-T
+and	O
+microsoft	O
+is	O
+dropping	B-P
+support	B-T
+next	O
+april	O
+.	O
+#Relations
+0	1	4	5	NEU
+8	9	9	10	NEG
+
+first	O
+off	O
+,	O
+i	O
+really	O
+do	O
+like	B-P
+my	O
+mbp	O
+...	O
+once	O
+used	O
+to	O
+the	O
+os	B-T
+it	O
+is	O
+pretty	O
+easy	B-P
+to	O
+get	O
+around	O
+,	O
+and	O
+the	O
+overall	B-T
+build	I-T
+is	O
+great	B-P
+...	O
+eg	O
+the	O
+keyboard	B-T
+is	O
+one	O
+of	O
+the	O
+best	B-P
+to	O
+type	O
+on	O
+.	O
+#Relations
+6	7	14	15	POS
+18	19	14	15	POS
+28	29	25	27	POS
+37	38	32	33	POS
+
+it	O
+is	O
+made	O
+of	O
+such	O
+solid	B-P
+construction	B-T
+and	O
+since	O
+i	O
+have	O
+never	O
+had	O
+a	O
+mac	O
+using	O
+my	O
+iphone	O
+helped	O
+me	O
+get	O
+used	O
+to	O
+the	O
+system	O
+a	O
+bit	O
+.	O
+#Relations
+5	6	6	7	POS
+
+very	O
+nice	B-P
+unibody	B-T
+construction	I-T
+.	O
+#Relations
+1	2	2	4	POS
+
+this	O
+macbook	O
+pro	O
+is	O
+fast	O
+,	O
+powerful	O
+,	O
+and	O
+runs	B-T
+super	O
+quiet	B-P
+and	O
+cool	B-P
+.	O
+#Relations
+11	12	9	10	POS
+13	14	9	10	POS
+
+it	O
+'s	O
+ok	O
+but	O
+does	B-P
+n't	I-P
+have	I-P
+a	O
+disk	B-T
+drive	I-T
+which	O
+i	O
+did	O
+n't	O
+know	O
+until	O
+after	O
+i	O
+bought	O
+it	O
+.	O
+#Relations
+4	7	8	10	NEU
+
+there	O
+is	O
+no	B-P
+hdmi	B-T
+receptacle	I-T
+,	O
+nor	B-P
+is	O
+there	O
+an	O
+sd	B-T
+card	I-T
+slot	I-T
+located	O
+anywhere	O
+on	O
+the	O
+device	O
+.	O
+#Relations
+2	3	3	5	NEU
+6	7	10	13	NEU
+
+it	O
+came	O
+in	O
+brand	O
+new	O
+and	O
+works	B-T
+perfectly	B-P
+.	O
+#Relations
+7	8	6	7	POS
+
+it	O
+should	O
+n't	O
+happen	O
+like	O
+that	O
+,	O
+i	O
+do	B-P
+n't	I-P
+have	I-P
+any	O
+design	B-T
+app	I-T
+open	O
+or	O
+anything	O
+.	O
+#Relations
+8	11	12	14	NEU
+
+my	O
+trackpad	B-T
+is	O
+not	B-P
+working	I-P
+.	O
+#Relations
+3	5	1	2	NEG
+
+it	O
+looks	B-T
+and	O
+feels	O
+solid	B-P
+,	O
+with	O
+a	O
+flawless	B-P
+finish	B-T
+.	O
+#Relations
+4	5	1	2	POS
+8	9	9	10	POS
+
+price	B-T
+was	O
+higher	B-P
+when	O
+purchased	O
+on	O
+mac	O
+when	O
+compared	O
+to	O
+price	O
+showing	O
+on	O
+pc	O
+when	O
+i	O
+bought	O
+this	O
+product	O
+.	O
+#Relations
+2	3	0	1	NEG
+
+then	O
+the	O
+system	B-T
+would	O
+many	O
+times	O
+not	B-P
+power	I-P
+down	I-P
+without	O
+a	O
+forced	O
+power-off	O
+.	O
+#Relations
+6	9	2	3	NEG
+
+the	O
+configuration	B-T
+is	O
+perfect	B-P
+for	O
+my	O
+needs	O
+.	O
+#Relations
+3	4	1	2	POS
+
+and	O
+the	O
+speakers	B-T
+is	O
+the	O
+worst	B-P
+ever	O
+.	O
+#Relations
+5	6	2	3	NEG
+
+its	O
+the	O
+best	O
+,	O
+its	O
+got	O
+the	O
+looks	O
+,	O
+super	O
+easy	B-P
+to	O
+use	B-T
+and	O
+love	B-P
+all	O
+you	O
+can	O
+do	O
+with	O
+the	O
+trackpad	B-T
+!	O
+..	O
+#Relations
+10	11	12	13	POS
+14	15	21	22	POS
+
+web	B-T
+surfuring	I-T
+is	O
+smooth	B-P
+and	O
+seamless	B-P
+.	O
+#Relations
+3	4	0	2	POS
+5	6	0	2	POS
+
+i	O
+'m	O
+overall	O
+pleased	B-P
+with	O
+the	O
+interface	B-T
+and	O
+the	O
+portability	O
+of	O
+this	O
+product	O
+.	O
+#Relations
+3	4	6	7	POS
+
+this	O
+item	O
+is	O
+a	O
+beautiful	O
+piece	O
+,	O
+it	O
+works	B-T
+well	B-P
+,	O
+it	O
+is	O
+easy	B-P
+to	O
+carry	B-T
+and	O
+handle	O
+.	O
+#Relations
+9	10	8	9	POS
+13	14	15	16	POS
+
+it	O
+was	O
+also	O
+suffering	O
+from	O
+hardware	O
+(	O
+keyboard	O
+)	O
+issues	O
+,	O
+relatively	O
+slow	B-P
+performance	B-T
+and	O
+shortening	B-P
+battery	B-T
+lifetime	I-T
+.	O
+#Relations
+12	13	13	14	NEG
+15	16	16	18	NEG
+
+runs	B-T
+good	B-P
+and	O
+does	O
+the	O
+job	O
+,	O
+ca	O
+n't	O
+complain	O
+about	O
+that	O
+!	O
+#Relations
+1	2	0	1	POS
+
+it	O
+'s	O
+silent	O
+and	O
+has	O
+a	O
+very	O
+small	B-P
+footprint	B-T
+on	O
+my	O
+desk	O
+.	O
+#Relations
+7	8	8	9	POS
+
+the	O
+exterior	B-T
+is	O
+absolutely	O
+gorgeous	B-P
+.	O
+#Relations
+4	5	1	2	POS
+
+it	O
+has	O
+a	O
+very	O
+high	B-P
+performance	B-T
+,	O
+just	O
+for	O
+what	O
+i	O
+needed	O
+for	O
+.	O
+#Relations
+4	5	5	6	POS
+
+apple	O
+is	O
+aware	O
+of	O
+this	O
+issue	O
+and	O
+this	O
+is	O
+either	O
+old	O
+stock	O
+or	O
+a	O
+defective	B-P
+design	O
+involving	O
+the	O
+intel	B-T
+4000	I-T
+graphics	I-T
+chipset	I-T
+.	O
+#Relations
+14	15	18	22	NEU
+
+i	O
+just	O
+bought	O
+the	O
+new	O
+macbook	O
+pro	O
+,	O
+the	O
+13	O
+''	O
+model	O
+,	O
+and	O
+i	O
+ca	O
+n't	O
+believe	O
+apple	O
+keeps	O
+making	O
+the	O
+same	O
+mistake	B-P
+with	O
+regard	O
+to	O
+usb	B-T
+ports	I-T
+.	O
+#Relations
+23	24	27	29	NEG
+
+it	O
+is	O
+the	O
+perfect	B-P
+size	B-T
+and	O
+speed	O
+for	O
+me	O
+.	O
+#Relations
+3	4	4	5	POS
+
+the	O
+customer	B-T
+service	I-T
+is	O
+terrific	B-P
+!	O
+!	O
+#Relations
+4	5	1	3	POS
+
+my	O
+last	O
+laptop	O
+was	O
+a	O
+17	O
+''	O
+asus	O
+gaming	O
+machine	O
+,	O
+which	O
+performed	B-T
+admirably	B-P
+,	O
+but	O
+having	O
+since	O
+built	O
+my	O
+own	O
+desktop	O
+and	O
+really	O
+settling	O
+into	O
+the	O
+college	O
+life	O
+,	O
+i	O
+found	O
+myself	O
+wanting	O
+something	O
+smaller	O
+and	O
+less	O
+cumbersome	O
+,	O
+not	O
+to	O
+mention	O
+that	O
+the	O
+asus	O
+had	O
+been	O
+slowly	O
+developing	O
+problems	O
+ever	O
+since	O
+i	O
+bought	O
+it	O
+about	O
+4	O
+years	O
+ago	O
+.	O
+#Relations
+13	14	12	13	POS
+
+however	O
+,	O
+it	O
+did	O
+not	O
+have	O
+any	O
+scratches	O
+,	O
+zero	B-P
+battery	B-T
+cycle	I-T
+count	I-T
+(	O
+pretty	O
+surprised	B-P
+)	O
+,	O
+and	O
+all	O
+the	O
+hardware	B-T
+seemed	O
+to	O
+be	O
+working	O
+perfectly	B-P
+.	O
+#Relations
+9	10	10	13	POS
+15	16	10	13	POS
+26	27	21	22	POS
+
+and	O
+as	O
+for	O
+all	O
+the	O
+fancy	B-P
+finger	B-T
+swipes	I-T
+--	O
+i	O
+just	O
+gave	O
+up	O
+and	O
+attached	O
+a	O
+mouse	O
+.	O
+#Relations
+5	6	6	8	NEG
+
+i	O
+needed	O
+a	O
+laptop	O
+with	O
+big	B-P
+storage	B-T
+,	O
+a	O
+nice	B-P
+screen	B-T
+and	O
+fast	O
+so	O
+i	O
+can	O
+photoshop	O
+without	O
+any	O
+problem	O
+.	O
+#Relations
+5	6	6	7	NEU
+9	10	10	11	NEU
+
+i	O
+like	B-P
+coming	O
+back	O
+to	O
+mac	B-T
+os	I-T
+but	O
+this	O
+laptop	O
+is	O
+lacking	B-P
+in	O
+speaker	B-T
+quality	I-T
+compared	O
+to	O
+my	O
+$	O
+400	O
+old	O
+hp	O
+laptop	O
+.	O
+#Relations
+1	2	5	7	POS
+11	12	13	15	NEG
+
+shipped	B-T
+very	O
+quickly	B-P
+and	O
+safely	B-P
+.	O
+#Relations
+2	3	0	1	POS
+4	5	0	1	POS
+
+the	O
+thunderbolt	B-T
+port	I-T
+is	O
+awesome	B-P
+!	O
+#Relations
+4	5	1	3	POS
+
+the	O
+performance	B-T
+is	O
+definitely	O
+superior	B-P
+to	O
+any	O
+computer	O
+i	O
+'ve	O
+ever	O
+put	O
+my	O
+hands	O
+on	O
+.	O
+#Relations
+4	5	1	2	POS
+
+it	O
+'s	O
+great	B-P
+for	O
+streaming	B-T
+video	I-T
+and	O
+other	O
+entertainment	O
+uses	O
+.	O
+#Relations
+2	3	4	6	POS
+
+i	O
+like	B-P
+the	O
+design	B-T
+and	O
+its	O
+features	B-T
+but	O
+there	O
+are	O
+somethings	O
+i	O
+think	O
+needs	B-P
+to	I-P
+be	I-P
+improved	I-P
+.	O
+#Relations
+1	2	3	4	POS
+13	17	6	7	POS
+
+there	O
+were	O
+small	O
+problems	B-P
+with	O
+mac	B-T
+office	I-T
+.	O
+#Relations
+3	4	5	7	NEG
+
+i	O
+ordered	O
+my	O
+2012	O
+mac	O
+mini	O
+after	O
+being	O
+disappointed	B-P
+with	O
+spec	B-T
+of	O
+the	O
+new	O
+27	O
+''	O
+imacs	O
+.	O
+#Relations
+8	9	10	11	NEG
+
+its	O
+fast	O
+,	O
+easy	B-P
+to	O
+use	B-T
+and	O
+it	O
+looks	B-T
+great	B-P
+.	O
+#Relations
+3	4	5	6	POS
+9	10	8	9	POS
+
+performance	B-T
+is	O
+much	O
+much	O
+better	B-P
+on	O
+the	O
+pro	O
+,	O
+especially	O
+if	O
+you	O
+install	O
+an	O
+ssd	O
+on	O
+it	O
+.	O
+#Relations
+4	5	0	1	POS
+
+note	O
+,	O
+however	O
+,	O
+that	O
+any	O
+existing	O
+magsafe	B-T
+accessories	I-T
+you	O
+have	O
+will	O
+not	B-P
+work	I-P
+with	O
+the	O
+magsafe	O
+2	O
+connection	O
+.	O
+#Relations
+12	14	7	9	NEU
+
+the	O
+only	O
+thing	O
+i	O
+dislike	B-P
+is	O
+the	O
+touchpad	B-T
+,	O
+alot	O
+of	O
+the	O
+times	O
+its	O
+unresponsive	B-P
+and	O
+does	O
+things	O
+i	O
+dont	O
+want	O
+it	O
+too	O
+,	O
+i	O
+would	O
+recommend	B-P
+using	O
+a	O
+mouse	B-T
+with	O
+it	O
+.	O
+#Relations
+4	5	7	8	NEG
+14	15	7	8	NEG
+26	27	29	30	NEU
+
+the	O
+mac	O
+mini	O
+is	O
+about	O
+8x	O
+smaller	O
+than	O
+my	O
+old	O
+computer	O
+which	O
+is	O
+a	O
+huge	O
+bonus	O
+and	O
+runs	B-T
+very	O
+quiet	B-P
+,	O
+actually	O
+the	O
+fans	B-T
+are	B-P
+n't	I-P
+audible	I-P
+unlike	O
+my	O
+old	O
+pc	O
+#Relations
+19	20	17	18	POS
+24	27	23	24	POS
+
+i	O
+thought	O
+the	O
+transition	O
+would	O
+be	O
+difficult	O
+at	O
+best	O
+and	O
+would	O
+take	B-P
+some	I-P
+time	I-P
+to	O
+fully	O
+familiarize	O
+myself	O
+with	O
+the	O
+new	O
+mac	B-T
+ecosystem	I-T
+.	O
+#Relations
+11	14	21	23	NEU
+
+it	O
+'s	O
+absolutely	O
+wonderful	B-P
+and	O
+worth	B-P
+the	O
+price	B-T
+!	O
+#Relations
+3	4	7	8	POS
+5	6	7	8	POS
+
+i	O
+am	O
+please	B-P
+with	O
+the	O
+products	O
+ease	B-P
+of	O
+use	B-T
+;	O
+out	O
+of	O
+the	O
+box	O
+ready	O
+;	O
+appearance	O
+and	O
+functionality	O
+.	O
+#Relations
+2	3	8	9	POS
+6	7	8	9	POS
+
+perfect	B-P
+for	O
+all	O
+my	O
+graphic	B-T
+design	I-T
+classes	O
+i	O
+'m	O
+taking	O
+this	O
+year	O
+in	O
+college	O
+:	O
+-	O
+)	O
+#Relations
+0	1	4	6	POS
+
+i	O
+will	O
+not	B-P
+be	I-P
+using	I-P
+that	O
+slot	B-T
+again	O
+.	O
+#Relations
+2	5	6	7	NEG
+
+the	O
+os	B-T
+is	O
+fast	B-P
+and	O
+fluid	B-P
+,	O
+everything	O
+is	O
+organized	B-P
+and	O
+it	O
+'s	O
+just	O
+beautiful	B-P
+.	O
+#Relations
+3	4	1	2	POS
+5	6	1	2	POS
+9	10	1	2	POS
+14	15	1	2	POS
+
+they	O
+are	O
+simpler	B-P
+to	O
+use	B-T
+.	O
+#Relations
+2	3	4	5	POS
+
+!	O
+so	O
+nice	B-P
+..	O
+stable	B-P
+..	O
+fast	B-P
+..	O
+now	O
+i	O
+got	O
+my	O
+ssd	B-T
+!	O
+#Relations
+2	3	12	13	POS
+4	5	12	13	POS
+6	7	12	13	POS
+
+i	O
+love	B-P
+the	O
+quick	O
+start	B-T
+up	I-T
+.	O
+#Relations
+1	2	4	6	POS
+
+you	O
+just	O
+can	B-P
+not	I-P
+beat	I-P
+the	O
+functionality	B-T
+of	O
+an	O
+apple	O
+device	O
+.	O
+#Relations
+2	5	6	7	POS
+
+yet	O
+my	O
+mac	O
+continues	O
+to	O
+function	B-T
+properly	B-P
+.	O
+#Relations
+6	7	5	6	POS
+
+graphics	B-T
+are	O
+much	O
+improved	B-P
+.	O
+#Relations
+3	4	0	1	POS
+
+here	O
+are	O
+the	O
+things	O
+that	O
+made	O
+me	O
+confident	B-P
+with	O
+my	O
+purchase	O
+:	O
+build	B-T
+quality	I-T
+-	O
+seriously	O
+,	O
+you	O
+ca	B-P
+n't	I-P
+beat	I-P
+a	O
+unibody	B-T
+construction	I-T
+.	O
+#Relations
+7	8	12	14	POS
+18	21	22	24	POS
+
+it	O
+provides	O
+much	O
+more	B-P
+flexibility	B-T
+for	I-T
+connectivity	I-T
+.	O
+#Relations
+3	4	4	7	POS
+
+mac	B-T
+tutorials	I-T
+do	O
+help	B-P
+.	O
+#Relations
+3	4	0	2	POS
+
+the	O
+technical	B-T
+support	I-T
+was	O
+not	B-P
+helpful	I-P
+as	O
+well	O
+.	O
+#Relations
+4	6	1	3	NEG
+
+i	O
+got	O
+the	O
+new	B-P
+adapter	B-T
+and	O
+there	O
+was	O
+no	B-P
+change	I-P
+.	O
+#Relations
+3	4	4	5	NEU
+8	10	4	5	NEU
+
+logic	B-T
+board	I-T
+utterly	B-P
+fried	I-P
+,	O
+cried	B-P
+,	O
+and	O
+laid	B-P
+down	I-P
+and	O
+died	B-P
+.	O
+#Relations
+2	4	0	2	POS
+5	6	0	2	POS
+8	10	0	2	POS
+11	12	0	2	POS
+
+the	O
+sound	B-T
+was	O
+crappy	B-P
+even	O
+when	O
+you	O
+turn	O
+up	O
+the	O
+volume	O
+still	O
+the	O
+same	O
+results	O
+.	O
+#Relations
+3	4	1	2	NEG
+
+osx	B-T
+lion	I-T
+is	O
+a	O
+great	B-P
+performer..extremely	O
+fast	B-P
+and	O
+reliable	B-P
+.	O
+#Relations
+4	5	0	2	POS
+6	7	0	2	POS
+8	9	0	2	POS
+
+having	O
+heard	O
+from	O
+friends	O
+and	O
+family	O
+about	O
+how	O
+reliable	O
+a	O
+mac	O
+product	O
+is	O
+,	O
+i	O
+never	O
+expected	O
+to	O
+have	O
+an	O
+application	B-T
+crash	B-P
+within	O
+the	O
+first	O
+month	O
+,	O
+but	O
+i	O
+did	O
+.	O
+#Relations
+21	22	20	21	NEG
+
+the	O
+macbook	O
+pro	O
+'s	O
+physical	B-T
+form	I-T
+is	O
+wonderful	B-P
+.	O
+#Relations
+7	8	4	6	POS
+
+the	O
+mini	O
+'s	O
+body	B-T
+has	B-P
+n't	I-P
+changed	I-P
+since	O
+late	O
+2010-	O
+and	O
+for	O
+a	O
+good	B-P
+reason	O
+.	O
+#Relations
+4	7	3	4	POS
+13	14	3	4	POS
+
+the	O
+unibody	B-T
+construction	I-T
+really	O
+does	O
+feel	O
+lot	O
+more	O
+solid	B-P
+than	O
+apple	O
+'s	O
+previous	O
+laptops	O
+.	O
+#Relations
+8	9	1	3	POS
+
+3d	B-T
+rendering	I-T
+slows	B-P
+it	I-P
+down	I-P
+considerably	O
+.	O
+#Relations
+2	5	0	2	NEG
+
+fast	B-P
+,	O
+great	B-P
+screen	B-T
+,	O
+beautiful	B-P
+apps	B-T
+for	O
+a	O
+laptop	O
+;	O
+priced	O
+at	O
+1100	O
+on	O
+the	O
+apple	O
+website	O
+;	O
+amazon	O
+had	O
+it	O
+for	O
+1098+	O
+tax	O
+-	O
+plus	O
+i	O
+had	O
+a	O
+10	O
+%	O
+off	O
+coupon	O
+from	O
+amazon-cost	O
+me	O
+998	O
+plus	O
+tax-	O
+1070-	O
+otd	O
+!	O
+#Relations
+0	1	3	4	POS
+2	3	3	4	POS
+5	6	6	7	POS
+
+all	O
+the	O
+ports	B-T
+are	O
+much	B-P
+needed	I-P
+since	O
+this	O
+is	O
+my	O
+main	O
+computer	O
+.	O
+#Relations
+4	6	2	3	NEU
+
+the	O
+like	O
+new	O
+condition	O
+of	O
+the	O
+imac	O
+mc309ll/a	O
+on	O
+amazon	O
+is	O
+at	O
+$	O
+900+	O
+level	O
+only	O
+,	O
+and	O
+it	O
+is	O
+a	O
+quad-core	O
+2.5	O
+ghz	O
+cpu	O
+(	O
+similar	O
+to	O
+the	O
+$	O
+799	O
+mini	O
+)	O
+,	O
+with	O
+radeon	O
+hd	O
+6750m	O
+512mb	O
+graphic	O
+card	O
+(	O
+this	O
+mini	O
+is	O
+integrated	O
+intel	O
+4000	O
+card	O
+)	O
+,	O
+and	O
+it	O
+even	O
+comes	O
+with	O
+wireless	O
+apple	O
+keyboard	O
+and	O
+mouse	O
+,	O
+all	O
+put	O
+together	O
+in	O
+neat	B-P
+and	O
+nice	B-P
+package	B-T
+.	O
+#Relations
+66	67	69	70	POS
+68	69	69	70	POS
+
+put	O
+a	O
+cover	B-T
+on	O
+it	O
+and	O
+is	O
+a	B-P
+little	I-P
+better	I-P
+but	O
+that	O
+is	O
+my	O
+only	O
+complaint	B-P
+.	O
+#Relations
+7	10	2	3	NEU
+15	16	2	3	NEU
+
+within	O
+a	O
+few	O
+hours	O
+i	O
+was	O
+using	O
+the	O
+gestures	B-T
+unconsciously	B-P
+.	O
+#Relations
+9	10	8	9	POS
+
+this	O
+mac	O
+does	O
+come	O
+with	O
+an	O
+extender	O
+cable	O
+and	O
+i	O
+'m	O
+using	O
+mine	O
+right	O
+now	O
+hoping	O
+the	O
+cable	B-T
+will	O
+stay	O
+nice	B-P
+for	O
+the	O
+many	O
+years	O
+i	O
+plan	O
+on	O
+using	O
+this	O
+mac	O
+.	O
+#Relations
+20	21	17	18	POS
+
+the	O
+2.9ghz	B-T
+dual-core	I-T
+i7	I-T
+chip	I-T
+really	B-P
+out	O
+does	O
+itself	O
+.	O
+#Relations
+5	6	1	5	POS
+
+it	O
+is	O
+pretty	O
+snappy	B-P
+and	O
+starts	B-T
+up	I-T
+in	O
+about	O
+30	O
+seconds	O
+which	O
+is	O
+good	B-P
+enough	O
+for	O
+me	O
+.	O
+#Relations
+3	4	5	7	POS
+13	14	5	7	POS
+
+so	O
+noise	B-T
+is	O
+reduced	B-P
+at	O
+least	O
+50	O
+%	O
+and	O
+the	O
+heat	B-T
+is	O
+much	O
+better	B-P
+,	O
+now	O
+it	O
+does	B-P
+n't	I-P
+feel	I-P
+hot	I-P
+but	O
+warm	B-P
+.	O
+#Relations
+3	4	1	2	POS
+13	14	10	11	POS
+17	21	10	11	POS
+22	23	10	11	POS
+
+not	B-P
+sure	I-P
+on	O
+windows	B-T
+8	I-T
+.	O
+#Relations
+0	2	3	5	NEU
+
+my	O
+one	O
+complaint	B-P
+is	O
+that	O
+there	O
+was	O
+no	B-P
+internal	B-T
+cd	I-T
+drive	I-T
+.	O
+#Relations
+2	3	8	11	NEG
+7	8	8	11	NEG
+
+this	O
+newer	O
+netbook	O
+has	O
+no	B-P
+hard	B-T
+drive	I-T
+or	O
+network	O
+lights	O
+.	O
+#Relations
+4	5	5	7	NEU
+
+not	O
+too	O
+expense	O
+and	O
+has	O
+enough	B-P
+storage	B-T
+for	O
+most	O
+users	O
+and	O
+many	O
+ports	O
+.	O
+#Relations
+5	6	6	7	POS
+
+the	O
+audio	B-T
+volume	I-T
+is	O
+quite	O
+low	B-P
+and	O
+virtually	O
+unusable	B-P
+in	O
+a	O
+room	O
+with	O
+any	O
+background	O
+activity	O
+.	O
+#Relations
+5	6	1	3	NEG
+8	9	1	3	NEG
+
+it	O
+is	O
+lightweight	O
+and	O
+the	O
+perfect	B-P
+size	B-T
+to	O
+carry	O
+to	O
+class	O
+.	O
+#Relations
+5	6	6	7	POS
+
+the	O
+mbp	O
+is	O
+beautiful	O
+has	O
+many	O
+wonderful	B-P
+capabilities	B-T
+.	O
+#Relations
+6	7	7	8	POS
+
+i	O
+thought	O
+that	O
+it	O
+will	O
+be	O
+fine	B-P
+,	O
+if	O
+i	O
+do	O
+some	O
+settings	B-T
+.	O
+#Relations
+6	7	12	13	NEU
+
+runs	B-T
+very	O
+smoothly	B-P
+.	O
+#Relations
+2	3	0	1	POS
+
+boot-up	B-T
+slowed	B-P
+significantly	O
+after	O
+all	O
+windows	O
+updates	O
+were	O
+installed	O
+.	O
+#Relations
+1	2	0	1	NEG
+
+it	O
+was	O
+important	O
+that	O
+it	O
+was	O
+powerful	B-P
+enough	O
+to	O
+do	O
+all	O
+of	O
+the	O
+tasks	O
+he	O
+needed	O
+on	O
+the	O
+internet	B-T
+,	O
+word	O
+processing	O
+,	O
+graphic	O
+design	O
+and	O
+gaming	O
+.	O
+#Relations
+6	7	18	19	POS
+
+i	O
+like	B-P
+the	O
+mini	O
+mac	O
+it	O
+was	O
+easy	B-P
+to	O
+setup	B-T
+and	O
+install	O
+,	O
+but	O
+i	O
+am	O
+learning	O
+as	O
+i	O
+go	O
+and	O
+could	O
+use	O
+a	O
+tutorial	O
+to	O
+learn	O
+how	O
+to	O
+use	O
+some	O
+of	O
+the	O
+features	O
+i	O
+was	O
+use	O
+to	O
+on	O
+the	O
+pc	O
+especially	O
+the	O
+right	O
+mouse	O
+click	O
+menu	O
+.	O
+#Relations
+1	2	9	10	POS
+7	8	9	10	POS
+
+runs	B-T
+real	O
+quick	B-P
+.	O
+#Relations
+2	3	0	1	POS
+
+since	O
+the	O
+machine	O
+'s	O
+slim	B-P
+profile	B-T
+is	O
+critical	B-P
+to	O
+me	O
+,	O
+that	O
+was	O
+a	O
+problem	O
+.	O
+#Relations
+4	5	5	6	NEG
+7	8	5	6	NEG
+
+wifi	O
+capability	O
+,	O
+disk	B-T
+drive	I-T
+and	O
+multiple	O
+usb	O
+ports	O
+to	O
+connect	O
+scale	O
+and	O
+printers	O
+was	O
+all	O
+that	O
+was	O
+required	B-P
+.	O
+#Relations
+18	19	3	5	POS
+
+the	O
+sd	B-T
+card	I-T
+reader	I-T
+is	O
+slightly	O
+recessed	B-P
+and	O
+upside	B-P
+down	I-P
+(	O
+the	O
+nail	B-T
+slot	I-T
+on	I-T
+the	I-T
+card	I-T
+can	B-P
+not	I-P
+be	I-P
+accessed	I-P
+)	O
+,	O
+if	O
+this	O
+was	O
+a	O
+self	O
+ejecting	O
+slot	B-T
+this	O
+would	O
+not	O
+be	O
+an	O
+issue	B-P
+,	O
+but	O
+its	O
+not	O
+.	O
+#Relations
+6	7	1	4	NEG
+8	10	1	4	NEG
+17	21	12	17	NEG
+35	36	29	30	NEG
+
+soft	B-P
+touch	B-T
+,	O
+anodized	B-T
+aluminum	I-T
+with	O
+laser	O
+cut	O
+precision	B-P
+and	O
+no	B-P
+flaws	I-P
+.	O
+#Relations
+0	1	1	2	POS
+8	9	3	5	POS
+10	12	3	5	POS
+
+simple	O
+details	O
+,	O
+crafted	B-P
+aluminium	B-T
+and	O
+real	O
+glass	B-T
+make	O
+this	O
+laptop	O
+blow	B-P
+away	I-P
+the	O
+other	O
+plastic	O
+ridden	O
+,	O
+bulky	O
+sticker	O
+filled	O
+laptops	O
+.	O
+#Relations
+3	4	4	5	POS
+11	13	7	8	POS
+
+first	O
+of	O
+all	O
+yes	O
+this	O
+is	O
+a	O
+mac	O
+and	O
+it	O
+has	O
+that	O
+nice	B-P
+brushed	O
+aluminum	B-T
+.	O
+#Relations
+12	13	14	15	POS
+
+no	B-P
+hdmi	B-T
+port	I-T
+.	O
+#Relations
+0	1	1	3	NEU
+
+customization	B-T
+on	O
+mac	O
+is	O
+impossible	B-P
+.	O
+#Relations
+4	5	0	1	NEG
+
+plus	O
+two	O
+finger	O
+clicking	O
+as	O
+a	O
+replacement	O
+for	O
+the	O
+right	B-T
+click	I-T
+button	I-T
+is	O
+surprisingly	B-P
+intuitive	I-P
+.	O
+#Relations
+13	15	9	12	NEU
+
+the	O
+superdrive	B-T
+is	O
+quiet	B-P
+.	O
+#Relations
+3	4	1	2	POS
+
+the	O
+battery	B-T
+was	O
+completely	O
+dead	B-P
+,	O
+in	O
+fact	O
+it	O
+had	O
+grown	O
+about	O
+a	O
+quarter	O
+inch	O
+thick	O
+lump	O
+on	O
+the	O
+underside	O
+.	O
+#Relations
+4	5	1	2	NEG
+
+if	O
+yo	O
+like	B-P
+practicality	B-T
+this	O
+is	O
+the	O
+laptop	O
+for	O
+you	O
+.	O
+#Relations
+2	3	3	4	POS
+
+the	O
+os	B-T
+is	O
+great	B-P
+.	O
+#Relations
+3	4	1	2	POS
+
+cons	O
+:	O
+price	B-T
+is	O
+a	O
+bit	O
+ridiculous	B-P
+,	O
+kinda	O
+heavy	B-P
+.	O
+#Relations
+6	7	2	3	NEG
+9	10	2	3	NEG
+
+which	O
+it	O
+did	O
+not	B-P
+have	I-P
+,	O
+only	O
+3	O
+usb	B-T
+2	I-T
+ports	I-T
+.	O
+#Relations
+3	5	8	11	NEU
+
+no	B-P
+startup	B-T
+disk	I-T
+was	O
+not	B-P
+included	I-P
+but	O
+that	O
+may	O
+be	O
+my	O
+fault	B-P
+.	O
+#Relations
+0	1	1	3	NEU
+4	6	1	3	NEU
+11	12	1	3	NEU
+
+it	O
+is	O
+very	O
+fast	O
+and	O
+has	O
+everything	O
+that	O
+i	O
+need	O
+except	B-P
+for	I-P
+a	O
+word	B-T
+program	I-T
+.	O
+#Relations
+10	12	13	15	NEG
+
+needs	O
+a	O
+cd/dvd	O
+drive	O
+and	O
+a	O
+bigger	B-P
+power	B-T
+switch	I-T
+.	O
+#Relations
+6	7	7	9	NEG
+
+my	O
+laptop	O
+with	O
+windows	B-T
+7	I-T
+crashed	B-P
+and	O
+i	O
+did	O
+not	B-P
+want	I-P
+windows	B-T
+8	I-T
+.	O
+#Relations
+5	6	3	5	NEG
+9	11	11	13	NEG
+
+easy	B-P
+to	O
+install	B-T
+also	O
+small	O
+to	O
+leave	O
+anywhere	O
+at	O
+your	O
+bedroom	O
+also	O
+very	O
+easy	B-P
+to	O
+configure	B-T
+for	I-T
+adsl	I-T
+cable	I-T
+or	I-T
+wifi	I-T
+.	O
+#Relations
+0	1	2	3	POS
+13	14	15	21	POS
+
+the	O
+speakers	B-T
+could	O
+have	O
+been	O
+better	B-P
+but	O
+it	O
+was	O
+n't	O
+a	O
+deal	O
+breaker	O
+...	O
+this	O
+is	O
+a	O
+great	O
+little	O
+laptop	O
+...	O
+love	O
+it	O
+!	O
+#Relations
+5	6	1	2	POS
+
+nice	B-P
+packing	B-T
+.	O
+#Relations
+0	1	1	2	POS
+
+i	O
+switched	O
+to	O
+this	O
+because	O
+i	O
+wanted	O
+something	O
+different	O
+,	O
+even	O
+though	O
+i	O
+miss	B-P
+windows	B-T
+.	O
+#Relations
+13	14	14	15	POS
+
+apple	O
+no	B-P
+longer	I-P
+includes	I-P
+idvd	B-T
+with	O
+the	O
+computer	O
+and	O
+furthermore	O
+,	O
+apple	O
+does	O
+n't	O
+even	O
+offer	O
+it	O
+anymore	O
+!	O
+#Relations
+1	4	4	5	NEG
+
+i	O
+also	O
+wanted	B-P
+windows	B-T
+7	I-T
+,	O
+which	O
+this	O
+one	O
+has	O
+.	O
+#Relations
+2	3	3	5	POS
+
+at	O
+first	O
+,	O
+i	O
+feel	O
+a	O
+little	O
+bit	O
+uncomfortable	B-P
+in	O
+using	O
+the	O
+mac	B-T
+system	I-T
+.	O
+#Relations
+8	9	12	14	NEG
+
+it	O
+just	O
+works	B-T
+out	B-P
+of	I-P
+the	I-P
+box	I-P
+and	O
+you	O
+have	O
+a	O
+lot	O
+of	O
+cool	B-P
+software	B-T
+included	O
+with	O
+the	O
+os	O
+.	O
+#Relations
+3	7	2	3	POS
+13	14	14	15	POS
+
+its	O
+as	O
+advertised	O
+on	O
+here	O
+...	O
+..	O
+it	O
+works	B-T
+great	B-P
+and	O
+is	O
+not	O
+a	O
+waste	O
+of	O
+money	O
+!	O
+#Relations
+9	10	8	9	POS
+
+premium	B-P
+price	B-T
+for	O
+the	O
+os	O
+more	O
+than	O
+anything	O
+else	O
+.	O
+#Relations
+0	1	1	2	POS
+
+i	O
+was	O
+a	O
+little	O
+concerned	B-P
+about	O
+the	O
+touch	B-T
+pad	I-T
+based	O
+on	O
+reviews	O
+,	O
+but	O
+i	O
+'ve	O
+found	O
+it	O
+fine	B-P
+to	O
+work	O
+with	O
+.	O
+#Relations
+4	5	7	9	POS
+18	19	7	9	POS
+
+i	O
+bought	O
+this	O
+mac	O
+book	O
+pro	O
+along	O
+with	O
+a	O
+new	O
+27	O
+''	O
+imac	O
+and	O
+while	O
+they	O
+are	O
+still	O
+light	O
+years	O
+more	O
+reliable	O
+than	O
+a	O
+pc	O
+i	O
+have	O
+noticed	O
+a	O
+decline	B-P
+in	O
+the	O
+reliability	B-T
+of	O
+my	O
+mac	O
+computers	O
+.	O
+#Relations
+29	30	32	33	POS
+
+the	O
+sound	B-T
+as	O
+mentioned	O
+earlier	O
+is	B-P
+n't	I-P
+the	I-P
+best	I-P
+,	O
+but	O
+it	O
+can	O
+be	O
+solved	O
+with	O
+headphones	O
+.	O
+#Relations
+5	9	1	2	POS
+
+the	O
+track	B-T
+pad	I-T
+is	O
+a	O
+bit	O
+squirrely	B-P
+at	O
+times-	O
+sometimes	O
+too	O
+sensitive	B-P
+,	O
+and	O
+sometimes	O
+a	O
+bit	O
+unresponsive	B-P
+,	O
+but	O
+it	O
+'s	O
+usable	B-P
+.	O
+#Relations
+6	7	1	3	POS
+11	12	1	3	POS
+17	18	1	3	POS
+22	23	1	3	POS
+
+however	O
+,	O
+the	O
+experience	O
+was	O
+great	B-P
+since	O
+the	O
+os	B-T
+does	O
+not	B-P
+become	I-P
+unstable	I-P
+and	O
+the	O
+application	O
+will	O
+simply	O
+shutdown	O
+and	O
+reopen	O
+.	O
+#Relations
+5	6	8	9	POS
+10	13	8	9	POS
+
+the	O
+battery	B-T
+is	O
+not	B-P
+as	I-P
+shown	I-P
+in	O
+the	O
+product	O
+photos	O
+.	O
+#Relations
+3	6	1	2	NEG
+
+shipping	B-T
+was	O
+quick	B-P
+and	O
+product	O
+described	O
+was	O
+the	O
+product	O
+sent	O
+and	O
+so	O
+much	O
+more	O
+...	O
+#Relations
+2	3	0	1	POS
+
+the	O
+retina	B-T
+display	I-T
+display	I-T
+make	O
+pictures	O
+i	O
+took	O
+years	O
+ago	O
+jaw	O
+dropping	B-P
+.	O
+#Relations
+11	12	1	4	POS
+
+the	O
+mac	O
+mini	O
+is	O
+probably	O
+the	O
+simplest	B-P
+example	O
+of	O
+compact	B-T
+computing	I-T
+out	O
+there	O
+.	O
+#Relations
+6	7	9	11	POS
+
+additionally	O
+,	O
+there	O
+is	O
+barely	B-P
+a	O
+ventilation	B-T
+system	I-T
+in	O
+the	O
+computer	O
+,	O
+and	O
+even	O
+the	O
+simple	B-P
+activity	O
+of	O
+watching	B-T
+videos	I-T
+let	O
+alone	O
+playing	O
+steam	O
+games	O
+causes	O
+the	O
+laptop	O
+to	O
+get	O
+very	O
+very	O
+hot	B-P
+,	O
+and	O
+in	O
+fact	O
+impossible	O
+to	O
+keep	O
+on	O
+lap	O
+.	O
+#Relations
+4	5	6	8	NEG
+15	16	18	20	NEU
+32	33	6	8	NEG
+
+chatting	O
+with	O
+acer	O
+support	O
+,	O
+i	O
+was	O
+advised	O
+the	O
+problem	O
+was	O
+corrupted	B-P
+operating	B-T
+system	I-T
+files	I-T
+.	O
+#Relations
+11	12	12	15	NEU
+
+it	O
+'s	O
+been	O
+a	O
+couple	O
+weeks	O
+since	O
+the	O
+purchase	O
+and	O
+i	O
+'m	O
+struggle	B-P
+with	O
+finding	O
+the	O
+correct	O
+keys	B-T
+(	O
+but	O
+that	O
+was	O
+expected	O
+)	O
+.	O
+#Relations
+12	13	17	18	NEU
+
+many	O
+people	O
+complain	B-P
+about	O
+the	O
+new	O
+os	B-T
+,	O
+and	O
+it	O
+'s	O
+urgent	O
+for	O
+apple	O
+to	O
+fix	O
+it	O
+asap	O
+!	O
+#Relations
+2	3	6	7	NEG
+
+now	O
+that	O
+i	O
+have	O
+upgraded	B-P
+to	O
+lion	B-T
+i	O
+am	O
+much	O
+happier	B-P
+about	O
+mac	B-T
+os	I-T
+and	O
+have	O
+just	O
+bought	O
+an	O
+imac	O
+for	O
+office	O
+.	O
+#Relations
+4	5	6	7	POS
+10	11	12	14	POS
+
+user	O
+upgradeable	B-P
+ram	B-T
+and	O
+hdd	O
+.	O
+#Relations
+1	2	2	3	POS
+
+but	O
+i	O
+wanted	B-P
+the	O
+pro	O
+for	O
+the	O
+cd/dvd	B-T
+player	I-T
+.	O
+#Relations
+2	3	7	9	POS
+
+the	O
+ram	B-T
+memory	I-T
+is	O
+good	B-P
+but	O
+should	O
+have	O
+splurged	O
+for	O
+8mb	O
+instead	O
+of	O
+4mb	O
+.	O
+#Relations
+4	5	1	3	POS
+
+i	O
+was	O
+a	O
+little	O
+worry	B-P
+at	O
+first	O
+because	O
+i	O
+do	O
+n't	O
+have	O
+a	O
+lot	O
+of	O
+experience	O
+with	O
+os.x	B-T
+and	O
+windows	O
+has	O
+always	O
+been	O
+second	O
+nature	O
+to	O
+me	O
+after	O
+many	O
+years	O
+of	O
+using	O
+windows	O
+.	O
+#Relations
+4	5	17	18	NEU
+
+with	O
+the	O
+softwares	O
+supporting	O
+the	O
+use	O
+of	O
+other	O
+os	B-T
+makes	O
+it	O
+much	O
+better	B-P
+.	O
+#Relations
+12	13	8	9	NEU
+
+i	O
+was	O
+considering	O
+buying	O
+the	O
+air	O
+,	O
+but	O
+in	O
+reality	O
+,	O
+this	O
+one	O
+has	O
+a	O
+more	O
+powerful	B-P
+performance	B-T
+and	O
+seems	O
+much	O
+more	O
+convenient	O
+,	O
+even	O
+though	O
+it	O
+'s	O
+about	O
+.20	O
+inch	O
+thicker	O
+and	O
+2	O
+lbs	O
+heavier	O
+.	O
+#Relations
+16	17	17	18	POS
+
+at	O
+home	O
+and	O
+the	O
+office	O
+it	O
+gets	O
+plugged	O
+into	O
+an	O
+external	O
+24	O
+''	O
+lcd	O
+screen	O
+,	O
+so	O
+built	B-T
+in	I-T
+screen	I-T
+size	I-T
+is	O
+not	B-P
+terribly	I-P
+important	I-P
+.	O
+#Relations
+22	25	17	21	NEU
+
+just	O
+beware	O
+no	B-P
+dvd	B-T
+slot	I-T
+so	O
+when	O
+i	O
+went	O
+to	O
+install	O
+software	O
+i	O
+had	O
+on	O
+cd	O
+i	O
+could	O
+n't	O
+.	O
+#Relations
+2	3	3	5	NEU
+
+no	B-P
+cd	B-T
+rom	I-T
+in	O
+the	O
+new	O
+version	O
+there	O
+'s	O
+no	O
+way	O
+i	O
+'m	O
+spending	O
+that	O
+kind	O
+of	O
+money	O
+on	O
+something	O
+has	O
+less	B-P
+features	B-T
+than	O
+the	O
+older	O
+version	O
+.	O
+#Relations
+0	1	1	3	NEU
+21	22	22	23	NEG
+
+the	O
+volume	B-T
+is	O
+really	O
+low	B-P
+to	O
+low	O
+for	O
+a	O
+laptopwas	O
+not	O
+expectin	O
+t	O
+volume	O
+to	O
+be	O
+so	O
+lowan	O
+i	O
+hate	B-P
+that	O
+about	O
+this	O
+computer	O
+#Relations
+4	5	1	2	NEG
+19	20	1	2	NEG
+
+and	O
+its	O
+not	O
+hard	O
+to	O
+accidentally	O
+bang	O
+it	O
+against	O
+something	O
+so	O
+i	O
+recommend	B-P
+getting	O
+a	O
+case	B-T
+to	O
+protect	O
+it	O
+.	O
+#Relations
+12	13	15	16	NEU
+
+i	O
+got	O
+this	O
+at	O
+an	O
+amazing	B-P
+price	B-T
+from	O
+amazon	O
+and	O
+it	O
+arrived	O
+just	O
+in	O
+time	O
+.	O
+#Relations
+5	6	6	7	POS
+
+every	O
+time	O
+i	O
+log	B-T
+into	I-T
+the	I-T
+system	I-T
+after	O
+a	O
+few	O
+hours	O
+,	O
+there	O
+is	O
+this	O
+endlessly	O
+frustrating	B-P
+process	O
+that	O
+i	O
+have	O
+to	O
+go	O
+through	O
+.	O
+#Relations
+16	17	3	7	NEG
+
+put	O
+a	O
+ssd	O
+and	O
+use	O
+a	O
+21	O
+''	O
+led	O
+screen	O
+,	O
+this	O
+set	B-T
+up	I-T
+is	O
+silky	B-P
+smooth	I-P
+!	O
+#Relations
+15	17	12	14	POS
+
+the	O
+case	B-T
+is	O
+now	O
+slightly	O
+larger	B-P
+than	O
+the	O
+previous	O
+generation	O
+,	O
+but	O
+the	O
+lack	B-P
+of	O
+an	O
+external	B-T
+power	I-T
+supply	I-T
+justifies	O
+the	O
+small	O
+increase	B-P
+in	O
+size	B-T
+.	O
+#Relations
+5	6	1	2	NEG
+13	14	16	19	NEU
+22	23	24	25	POS
+
+i	O
+had	O
+to	O
+buy	O
+a	O
+wireless	O
+mouse	O
+to	O
+go	O
+with	O
+it	O
+,	O
+as	O
+i	O
+am	O
+old	O
+school	O
+and	O
+hate	B-P
+the	O
+pad	B-T
+,	O
+but	O
+knew	O
+that	O
+before	O
+i	O
+bought	O
+it	O
+,	O
+now	O
+it	O
+works	B-T
+great	B-P
+,	O
+need	O
+to	O
+get	O
+adjusted	O
+to	O
+the	O
+key	O
+board	O
+,	O
+as	O
+i	O
+am	O
+used	O
+to	O
+a	O
+bigger	O
+one	O
+and	O
+pounding	O
+.	O
+#Relations
+18	19	20	21	NEG
+33	34	32	33	POS
+
+has	O
+all	O
+the	O
+other	O
+features	B-T
+i	O
+wanted	B-P
+including	O
+a	O
+vga	O
+port	O
+,	O
+hdmi	O
+,	O
+ethernet	O
+and	O
+3	O
+usb	O
+ports	O
+.	O
+#Relations
+6	7	4	5	POS
+
+the	O
+only	O
+thing	O
+i	O
+dislike	B-P
+about	O
+this	O
+laptop	O
+are	O
+the	O
+rubber	B-T
+pads	I-T
+found	O
+on	O
+the	O
+bottom	O
+of	O
+the	O
+computer	O
+for	O
+grip	O
+.	O
+#Relations
+4	5	10	12	NEG
+
+it	O
+'s	O
+a	O
+decent	B-P
+computer	O
+for	O
+the	O
+price	B-T
+and	O
+hopefully	O
+it	O
+will	O
+last	O
+a	O
+long	O
+time	O
+.	O
+#Relations
+3	4	7	8	NEU
+
+i	O
+was	O
+really	O
+happy	B-P
+because	O
+it	O
+is	O
+a	O
+much	O
+better	B-P
+price	B-T
+on	O
+amazon.com	O
+than	O
+it	O
+was	O
+in	O
+the	O
+mac	O
+store	O
+.	O
+#Relations
+3	4	10	11	POS
+9	10	10	11	POS
+
+the	O
+nicest	B-P
+part	O
+is	O
+the	O
+low	B-P
+heat	B-T
+output	I-T
+and	O
+ultra	O
+quiet	B-P
+operation	B-T
+.	O
+#Relations
+1	2	6	8	POS
+5	6	6	8	POS
+10	11	11	12	POS
+
+this	O
+mac	O
+mini	O
+does	O
+not	B-P
+have	I-P
+a	O
+built-in	B-T
+mic	I-T
+,	O
+and	O
+it	O
+would	O
+seem	O
+that	O
+its	O
+mac	B-T
+os	I-T
+10.9	I-T
+does	O
+not	B-P
+handle	I-P
+external	O
+microphones	O
+properly	O
+.	O
+#Relations
+4	6	7	9	NEU
+20	22	16	19	NEG
+
+a	O
+lot	B-P
+of	I-P
+features	B-T
+and	O
+shortcuts	O
+on	O
+the	O
+mbp	O
+that	O
+i	O
+was	O
+never	O
+exposed	O
+to	O
+on	O
+a	O
+normal	O
+pc	O
+.	O
+#Relations
+1	3	3	4	NEU
+
+was	O
+n't	O
+sure	O
+if	O
+i	O
+was	O
+going	O
+to	O
+like	O
+it	O
+much	O
+less	O
+love	O
+it	O
+so	O
+i	O
+went	O
+to	O
+a	O
+local	O
+best	O
+buy	O
+and	O
+played	O
+around	O
+with	O
+the	O
+ios	B-T
+system	I-T
+on	O
+a	O
+mac	O
+pro	O
+and	O
+it	O
+was	O
+totally	O
+unique	B-P
+and	O
+different	B-P
+.	O
+#Relations
+37	38	27	29	POS
+39	40	27	29	POS
+
+air	O
+has	O
+higher	B-P
+resolution	B-T
+but	O
+the	O
+fonts	B-T
+are	O
+small	B-P
+.	O
+#Relations
+2	3	3	4	POS
+8	9	6	7	NEG
+
+working	B-T
+with	O
+mac	O
+is	O
+so	O
+much	O
+easier	B-P
+,	O
+so	O
+many	O
+cool	B-P
+features	B-T
+.	O
+#Relations
+6	7	0	1	POS
+10	11	11	12	POS
+
+i	O
+like	B-P
+the	O
+brightness	B-T
+and	O
+adjustments	O
+.	O
+#Relations
+1	2	3	4	POS
+
+i	O
+only	O
+wish	B-P
+this	O
+mac	O
+had	O
+a	O
+cd/dvd	B-T
+player	I-T
+built	O
+in	O
+.	O
+#Relations
+2	3	7	9	NEU
+
+the	O
+only	O
+thing	O
+i	O
+miss	B-P
+is	O
+that	O
+my	O
+old	O
+alienware	O
+laptop	O
+had	O
+backlit	B-T
+keys	I-T
+.	O
+#Relations
+4	5	12	14	NEG
+
+so	O
+happy	O
+with	O
+this	O
+purchase	O
+,	O
+i	O
+just	O
+wish	B-P
+it	O
+came	O
+with	O
+microsoft	B-T
+word	I-T
+.	O
+#Relations
+8	9	12	14	NEU
+
+it	O
+has	O
+enough	B-P
+memory	B-T
+and	O
+speed	O
+to	O
+run	O
+my	O
+business	O
+with	O
+all	O
+the	O
+flexibility	O
+that	O
+comes	O
+with	O
+a	O
+laptop	O
+.	O
+#Relations
+2	3	3	4	POS
+
+the	O
+battery	B-T
+life	I-T
+is	O
+excellent	B-P
+,	O
+the	O
+display	B-T
+is	O
+excellent	B-P
+,	O
+and	O
+downloading	B-T
+apps	I-T
+is	O
+a	O
+breeze	B-P
+.	O
+#Relations
+4	5	1	3	POS
+9	10	7	8	POS
+16	17	12	14	POS
+
+the	O
+screen	O
+,	O
+the	O
+software	O
+and	O
+the	O
+smoothness	B-P
+of	O
+the	O
+operating	B-T
+system	I-T
+.	O
+#Relations
+7	8	10	12	POS
+
+but	O
+with	O
+this	O
+laptop	O
+,	O
+the	O
+bass	B-T
+is	O
+very	O
+weak	B-P
+and	O
+the	O
+sound	B-T
+comes	O
+out	O
+sounding	O
+tinny	B-P
+.	O
+#Relations
+9	10	6	7	NEG
+16	17	12	13	NEG
+
+the	O
+built	B-T
+quality	I-T
+is	O
+really	O
+good	B-P
+,	O
+i	O
+was	O
+so	O
+happy	B-P
+and	O
+excited	B-P
+about	O
+this	O
+product	O
+.	O
+#Relations
+5	6	1	3	POS
+10	11	1	3	POS
+12	13	1	3	POS
+
+i	O
+am	O
+loving	B-P
+the	O
+fast	B-P
+performance	B-T
+also	O
+.	O
+#Relations
+2	3	5	6	POS
+4	5	5	6	POS
+
+further	O
+,	O
+this	O
+mac	O
+mini	O
+has	O
+a	O
+sloppy	B-P
+bluetooth	B-T
+interface	I-T
+(	O
+courtesy	B-P
+of	O
+the	O
+mac	B-T
+os	I-T
+)	O
+and	O
+the	O
+range	B-T
+is	O
+poor	B-P
+.	O
+#Relations
+7	8	8	10	NEG
+11	12	14	16	NEG
+21	22	19	20	NEG
+
+my	O
+only	O
+gripe	B-P
+would	O
+be	O
+the	O
+need	O
+to	O
+add	O
+more	O
+ram	B-T
+.	O
+#Relations
+2	3	10	11	NEG
+
+fine	B-P
+if	O
+you	O
+have	O
+a	O
+touch	B-T
+screen	I-T
+.	O
+#Relations
+0	1	5	7	NEU
+
+this	O
+by	O
+far	O
+beats	O
+any	O
+computer	O
+out	O
+on	O
+the	O
+market	O
+today	O
+built	B-T
+well	B-P
+,	O
+battery	B-T
+life	I-T
+amazing	B-P
+.	O
+#Relations
+12	13	11	12	POS
+16	17	14	16	POS
+
+the	O
+os	B-T
+is	O
+easy	B-P
+,	O
+and	O
+offers	O
+all	O
+kinds	O
+of	O
+surprises	B-P
+.	O
+#Relations
+3	4	1	2	POS
+10	11	1	2	POS
+
+a	O
+veryimportant	B-P
+feature	O
+is	O
+firewire	B-T
+800	I-T
+which	O
+in	O
+my	O
+experience	O
+works	O
+better	B-P
+then	O
+usb3	O
+(	O
+in	O
+pc	O
+enabled	O
+with	O
+usb3	O
+)	O
+i	O
+was	O
+not	O
+originally	O
+sold	O
+on	O
+the	O
+mac	B-T
+os	I-T
+i	O
+felt	O
+it	O
+was	O
+inferior	B-P
+in	O
+many	O
+ways	O
+to	O
+windows	O
+7	O
+.	O
+#Relations
+1	2	4	6	POS
+11	12	4	6	POS
+34	35	28	30	NEG
+
+i	O
+like	B-P
+itunes	B-T
+,	O
+the	O
+apparent	B-P
+security	B-T
+,	O
+the	O
+mini	O
+form	O
+factor	O
+,	O
+all	O
+the	O
+nice	B-P
+graphics	B-T
+stuff	I-T
+.	O
+#Relations
+1	2	2	3	POS
+5	6	6	7	POS
+15	16	16	18	POS
+
+after	O
+replacing	O
+the	O
+spinning	O
+hard	O
+disk	O
+with	O
+an	O
+ssd	B-T
+drive	I-T
+,	O
+my	O
+mac	O
+is	O
+just	O
+flying	B-P
+.	O
+#Relations
+15	16	8	10	POS
+
+i	O
+know	O
+some	O
+people	O
+complained	B-P
+about	O
+hdmi	B-T
+issues	O
+but	O
+they	O
+released	O
+a	O
+firmware	O
+patch	O
+to	O
+address	O
+that	O
+issue	O
+.	O
+#Relations
+4	5	6	7	NEU
+
+with	O
+the	O
+needs	O
+of	O
+a	O
+professional	O
+photographer	O
+i	O
+generally	O
+need	O
+to	O
+keep	O
+up	O
+with	O
+the	O
+best	B-P
+specs	B-T
+.	O
+#Relations
+15	16	16	17	NEU
+
+packing	B-T
+and	O
+everything	O
+was	O
+perfect	B-P
+#Relations
+4	5	0	1	POS
+
+i	O
+called	O
+toshiba	O
+where	O
+i	O
+gave	O
+them	O
+the	O
+serial	O
+number	O
+and	O
+they	O
+informed	O
+me	O
+that	O
+they	O
+were	O
+having	O
+issues	B-P
+with	O
+the	O
+mother	B-T
+boards	I-T
+.	O
+#Relations
+18	19	21	23	NEU
+
+i	O
+seem	O
+to	O
+be	O
+having	O
+repeat	O
+problems	O
+as	O
+the	O
+mother	B-T
+board	I-T
+in	O
+this	O
+one	O
+is	O
+diagnosed	O
+as	O
+faulty	B-P
+,	O
+related	O
+to	O
+the	O
+graphics	O
+card	O
+.	O
+#Relations
+17	18	9	11	NEG
+
+it	O
+also	O
+comes	O
+with	O
+4g	O
+of	O
+ram	O
+but	O
+if	O
+you	O
+'re	O
+like	O
+me	O
+you	O
+want	O
+to	O
+max	O
+that	O
+out	O
+so	O
+i	O
+immediately	O
+put	O
+8g	O
+of	O
+ram	O
+in	O
+her	O
+and	O
+i	O
+'ve	O
+never	O
+used	O
+a	O
+computer	O
+that	O
+performs	B-T
+better	B-P
+.	O
+#Relations
+37	38	36	37	POS
+
+this	O
+computer	O
+is	O
+also	O
+awesome	B-P
+for	O
+my	O
+sons	O
+virtual	B-T
+home	I-T
+schooling	I-T
+.	O
+#Relations
+4	5	8	11	POS
+
+cost	B-T
+is	O
+more	B-P
+as	O
+compared	O
+to	O
+other	O
+brands	O
+.	O
+#Relations
+2	3	0	1	NEG
+
+also	O
+...	O
+-	O
+excellent	B-P
+operating	B-T
+system	I-T
+--	O
+size	O
+and	O
+weight	O
+for	O
+optimal	B-P
+mobility	B-T
+--	O
+excellent	B-P
+durability	B-T
+of	I-T
+the	I-T
+battery	I-T
+--	O
+the	O
+functions	B-T
+provided	I-T
+by	I-T
+the	I-T
+trackpad	I-T
+is	O
+unmatched	B-P
+by	O
+any	O
+other	O
+brand-	O
+#Relations
+3	4	4	6	POS
+11	12	12	13	POS
+14	15	15	19	POS
+27	28	21	26	POS
+
+this	O
+hardware	B-T
+seems	O
+to	O
+be	O
+better	B-P
+than	O
+the	O
+imac	O
+in	O
+that	O
+it	O
+is	O
+n't	O
+$	O
+1400	O
+and	O
+smaller	O
+.	O
+#Relations
+5	6	1	2	POS
+
+i	O
+'ve	O
+had	O
+it	O
+for	O
+about	O
+2	O
+months	O
+now	O
+and	O
+found	O
+no	B-P
+issues	I-P
+with	O
+software	B-T
+or	O
+updates	O
+.	O
+#Relations
+11	13	14	15	NEU
+
+the	O
+latest	O
+version	O
+does	O
+not	B-P
+have	I-P
+a	O
+disc	B-T
+drive	I-T
+.	O
+#Relations
+4	6	7	9	NEU
+
+screen	B-T
+-	O
+although	O
+some	O
+people	O
+might	O
+complain	B-P
+about	O
+low	B-P
+res	B-T
+which	O
+i	O
+think	O
+is	O
+ridiculous	B-P
+.	O
+#Relations
+6	7	0	1	POS
+8	9	9	10	POS
+14	15	0	1	POS
+

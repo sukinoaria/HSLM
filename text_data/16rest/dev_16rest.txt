@@ -1,0 +1,4052 @@
+the	O
+food	B-T
+is	O
+very	O
+average	B-P
+...	O
+the	O
+thai	B-T
+fusion	I-T
+stuff	I-T
+is	O
+a	O
+bit	O
+too	B-P
+sweet	I-P
+,	O
+every	O
+thing	O
+they	O
+serve	O
+is	O
+too	O
+sweet	O
+here	O
+.	O
+#Relations
+4	5	1	2	NEG
+13	15	7	10	NEG
+
+we	O
+went	O
+around	O
+9:30	O
+on	O
+a	O
+friday	O
+and	O
+it	O
+had	O
+died	O
+down	O
+a	O
+bit	O
+by	O
+then	O
+so	O
+the	O
+service	B-T
+was	O
+great	B-P
+!	O
+#Relations
+20	21	18	19	POS
+
+we	O
+love	B-P
+th	O
+pink	B-T
+pony	I-T
+.	O
+#Relations
+1	2	3	5	POS
+
+the	O
+food	B-T
+is	O
+decent	B-P
+.	O
+#Relations
+3	4	1	2	NEU
+
+however	O
+,	O
+it	O
+'s	O
+the	O
+service	B-T
+that	O
+leaves	O
+a	O
+bad	B-P
+taste	I-P
+in	O
+my	O
+mouth	O
+.	O
+#Relations
+9	11	5	6	NEG
+
+i	O
+happen	O
+to	O
+have	O
+a	O
+policy	O
+that	O
+goes	O
+along	O
+with	O
+a	O
+little	O
+bit	O
+of	O
+self-respect	O
+,	O
+which	O
+includes	O
+not	O
+letting	O
+a	O
+waiter	B-T
+intimidate	O
+me	O
+,	O
+i.e	O
+.	O
+make	O
+me	O
+feel	O
+bad	B-P
+asking	O
+for	O
+trivialities	O
+like	O
+water	O
+,	O
+or	O
+the	O
+check	O
+.	O
+#Relations
+30	31	21	22	NEG
+
+i	O
+tend	O
+to	O
+judge	O
+a	O
+sushi	O
+restaurant	O
+by	O
+its	O
+sea	B-T
+urchin	I-T
+,	O
+which	O
+was	O
+heavenly	B-P
+at	O
+sushi	O
+rose	O
+.	O
+#Relations
+14	15	9	11	POS
+
+the	O
+sushi	B-T
+seemed	O
+pretty	O
+fresh	B-P
+and	O
+was	O
+adequately	O
+proportioned	B-P
+.	O
+#Relations
+4	5	1	2	POS
+8	9	1	2	POS
+
+in	O
+the	O
+evening	O
+,	O
+this	O
+place	O
+attracted	B-P
+a	O
+well	O
+dressed	O
+,	O
+with	O
+it	O
+,	O
+ny	O
+crowd	B-T
+.	O
+#Relations
+6	7	15	16	POS
+
+the	O
+food	B-T
+was	O
+well	B-P
+prepared	I-P
+and	O
+the	O
+service	B-T
+impecable	B-P
+.	O
+#Relations
+3	5	1	2	POS
+8	9	7	8	POS
+
+the	O
+prix	B-T
+fixe	I-T
+menu	I-T
+is	O
+worth	B-P
+every	O
+penny	O
+and	O
+you	O
+get	O
+more	O
+than	O
+enough	O
+(	O
+both	O
+in	O
+quantity	O
+and	O
+quality	O
+)	O
+.	O
+#Relations
+5	6	1	4	POS
+
+the	O
+kitchen	B-T
+however	O
+,	O
+is	O
+almost	O
+always	O
+slow	B-P
+.	O
+#Relations
+7	8	1	2	NEG
+
+add	O
+to	O
+that	O
+great	B-P
+service	B-T
+and	O
+great	B-P
+food	B-T
+at	O
+a	O
+reasonable	O
+price	O
+and	O
+you	O
+have	O
+yourself	O
+the	O
+beginning	O
+of	O
+a	O
+great	O
+evening	O
+.	O
+#Relations
+3	4	4	5	POS
+6	7	7	8	POS
+
+the	O
+pizza	B-T
+was	O
+delivered	O
+cold	B-P
+and	O
+the	O
+cheese	B-T
+was	B-P
+n't	I-P
+even	I-P
+fully	I-P
+melted	I-P
+!	O
+#Relations
+4	5	1	2	NEG
+8	13	7	8	NEG
+
+yes	O
+,	O
+they	O
+use	O
+fancy	B-P
+ingredients	B-T
+,	O
+but	O
+even	O
+fancy	O
+ingredients	O
+do	O
+n't	O
+make	O
+for	O
+good	B-P
+pizza	B-T
+unless	O
+someone	O
+knows	O
+how	O
+to	O
+get	O
+the	O
+crust	O
+right	O
+.	O
+#Relations
+4	5	5	6	POS
+15	16	16	17	NEG
+
+best	B-P
+pastrami	B-T
+i	O
+ever	O
+had	O
+and	O
+great	B-P
+portion	B-T
+without	O
+being	O
+ridiculous	O
+.	O
+#Relations
+0	1	1	2	POS
+6	7	7	8	POS
+
+my	O
+wife	O
+had	O
+the	O
+fried	B-T
+shrimp	I-T
+which	O
+are	O
+huge	B-P
+and	O
+loved	B-P
+it	O
+.	O
+#Relations
+8	9	4	6	POS
+10	11	4	6	POS
+
+this	O
+place	B-T
+is	O
+the	O
+most	O
+japanese	B-P
+it	O
+can	O
+ever	O
+get	O
+.	O
+#Relations
+5	6	1	2	POS
+
+leon	B-T
+is	O
+an	O
+east	O
+village	O
+gem	O
+:	O
+casual	B-P
+but	O
+hip	B-P
+,	O
+with	O
+well	B-P
+prepared	I-P
+basic	O
+french	B-T
+bistro	I-T
+fare	I-T
+,	O
+good	B-P
+specials	B-T
+,	O
+a	O
+warm	B-P
+and	O
+lively	B-P
+atmosphere	B-T
+.	O
+#Relations
+7	8	0	1	POS
+9	10	0	1	POS
+12	14	15	18	POS
+19	20	20	21	POS
+23	24	26	27	POS
+25	26	26	27	POS
+
+the	O
+food	B-T
+was	O
+bland	B-P
+oily	I-P
+.	O
+#Relations
+3	5	1	2	NEG
+
+i	O
+went	O
+there	O
+for	O
+lunch	B-T
+and	O
+it	O
+was	O
+not	B-P
+as	I-P
+good	I-P
+as	I-P
+i	I-P
+expected	I-P
+from	O
+the	O
+reviews	O
+i	O
+read	O
+.	O
+#Relations
+8	14	4	5	NEG
+
+this	O
+place	B-T
+is	O
+great	B-P
+.	O
+#Relations
+3	4	1	2	POS
+
+great	B-P
+pizza	B-T
+and	O
+fantastic	B-P
+service	B-T
+.	O
+#Relations
+0	1	1	2	POS
+3	4	4	5	POS
+
+the	O
+place	B-T
+is	O
+small	B-P
+and	O
+cramped	B-P
+but	O
+the	O
+food	B-T
+is	O
+fantastic	B-P
+.	O
+#Relations
+3	4	1	2	NEG
+5	6	1	2	NEG
+10	11	8	9	POS
+
+moules	B-T
+were	O
+excellent	B-P
+,	O
+lobster	B-T
+ravioli	I-T
+was	O
+very	O
+salty	B-P
+!	O
+#Relations
+2	3	0	1	POS
+8	9	4	6	NEG
+
+the	O
+exotic	B-T
+food	I-T
+is	O
+beautifully	B-P
+presented	I-P
+and	O
+is	O
+a	O
+delight	B-P
+in	O
+delicious	O
+combinations	O
+.	O
+#Relations
+4	6	1	3	POS
+9	10	1	3	POS
+
+the	O
+staff	B-T
+is	O
+incredibly	O
+helpful	B-P
+and	O
+attentive	B-P
+.	O
+#Relations
+4	5	1	2	POS
+6	7	1	2	POS
+
+i	O
+had	O
+a	O
+great	B-P
+time	I-P
+at	O
+jekyll	B-T
+and	I-T
+hyde	I-T
+!	O
+#Relations
+3	5	6	9	POS
+
+our	O
+server	B-T
+was	O
+very	O
+helpful	B-P
+and	O
+friendly	B-P
+.	O
+#Relations
+4	5	1	2	POS
+6	7	1	2	POS
+
+the	O
+food	B-T
+was	O
+good	B-P
+too	O
+.	O
+#Relations
+3	4	1	2	POS
+
+service	B-T
+was	O
+prompt	B-P
+and	O
+courteous	B-P
+.	O
+#Relations
+2	3	0	1	POS
+4	5	0	1	POS
+
+great	B-P
+service	B-T
+,	O
+great	B-P
+food	B-T
+.	O
+#Relations
+0	1	1	2	POS
+3	4	4	5	POS
+
+wait	B-T
+staff	I-T
+is	O
+blantently	O
+unappreciative	B-P
+of	O
+your	O
+business	O
+but	O
+its	O
+the	O
+best	B-P
+pie	B-T
+on	O
+the	O
+uws	O
+!	O
+#Relations
+4	5	0	2	NEG
+11	12	12	13	POS
+
+by	O
+far	O
+the	O
+best	B-P
+salad	B-T
+i	O
+have	O
+had	O
+in	O
+a	O
+fast	O
+food	O
+restaurant	O
+.	O
+#Relations
+3	4	4	5	POS
+
+food	B-T
+was	O
+very	O
+good	B-P
+as	O
+well	O
+,	O
+considering	O
+that	O
+we	O
+tried	O
+the	O
+budget	O
+selection	O
+(	O
+though	O
+i	O
+wish	O
+the	O
+pork	O
+belly	O
+that	O
+i	O
+ordered	O
+was	O
+roasted	O
+a	O
+bit	O
+longer	O
+,	O
+so	O
+that	O
+fat	O
+was	O
+more	O
+of	O
+a	O
+melt-in-your-mouth	O
+experience	O
+)	O
+.	O
+#Relations
+3	4	0	1	POS
+
+the	O
+workers	O
+there	O
+also	O
+absolutely	O
+load	O
+the	O
+bagel	B-T
+with	O
+cream	O
+cheese	O
+(	O
+gets	O
+a	O
+little	O
+messy	B-P
+)	O
+.	O
+#Relations
+15	16	7	8	NEG
+
+i	O
+highly	O
+recommend	B-P
+cafe	O
+st.	O
+bart	O
+'s	O
+for	O
+their	O
+food	B-T
+,	O
+the	O
+ambience	O
+and	O
+wonderful	B-P
+service	B-T
+.	O
+#Relations
+2	3	9	10	POS
+14	15	15	16	POS
+
+all	O
+the	O
+staff	B-T
+is	O
+absolutely	O
+professional	B-P
+!	O
+!	O
+#Relations
+5	6	2	3	POS
+
+the	O
+scallion	B-T
+pancakes	I-T
+and	O
+fried	O
+dumplings	O
+were	O
+nothing	O
+out	O
+of	O
+the	O
+ordinary	B-P
+.	O
+#Relations
+11	12	1	3	NEU
+
+the	O
+service	B-T
+was	O
+the	O
+only	O
+thing	O
+good	B-P
+about	O
+this	O
+restaurant	O
+.	O
+#Relations
+6	7	1	2	POS
+
+fresh	B-T
+restaurant	I-T
+was	O
+amazing	B-P
+...	O
+...	O
+..	O
+food	B-T
+was	O
+delicious	B-P
+and	O
+of	O
+course	O
+fresh	B-P
+.	O
+#Relations
+0	1	0	2	POS
+3	4	0	2	POS
+9	10	7	8	POS
+13	14	7	8	POS
+
+hats	B-P
+off	I-P
+to	O
+the	O
+chef	B-T
+.	O
+#Relations
+0	2	4	5	POS
+
+the	O
+salads	B-T
+are	O
+delicious	B-P
+,	O
+both	O
+refreshing	B-P
+and	O
+very	O
+spicy	B-P
+.	O
+#Relations
+3	4	1	2	POS
+6	7	1	2	POS
+9	10	1	2	POS
+
+they	O
+have	O
+it	O
+all	O
+--	O
+great	B-P
+price	O
+,	O
+food	B-T
+,	O
+and	O
+service	O
+.	O
+#Relations
+5	6	8	9	POS
+
+and	O
+evaluated	O
+on	O
+those	O
+terms	O
+pastis	B-T
+is	O
+simply	O
+wonderful	B-P
+.	O
+#Relations
+8	9	5	6	POS
+
+the	O
+hanger	B-T
+steak	I-T
+was	O
+like	O
+rubber	B-P
+and	O
+the	O
+tuna	B-T
+was	O
+flavorless	B-P
+not	O
+to	O
+mention	O
+it	O
+tasted	O
+like	O
+it	O
+had	O
+just	O
+been	O
+thawed	O
+.	O
+#Relations
+5	6	1	3	NEG
+10	11	8	9	NEG
+
+the	O
+filet	B-T
+mignon	I-T
+dish	I-T
+was	O
+superb	B-P
+!	O
+#Relations
+5	6	1	4	POS
+
+the	O
+pizza	B-T
+and	O
+wine	O
+were	O
+excellent	B-P
+--	O
+the	O
+service	O
+too	O
+--	O
+but	O
+what	O
+really	O
+made	O
+this	O
+place	O
+was	O
+the	O
+backyard	O
+dining	O
+area	O
+.	O
+#Relations
+5	6	1	2	POS
+
+first	O
+of	O
+all	O
+,	O
+this	O
+place	B-T
+is	O
+*not*	B-P
+romantic	I-P
+,	O
+as	O
+claimed	O
+by	O
+citysearch	O
+'s	O
+editorial	O
+review	O
+.	O
+#Relations
+7	9	5	6	NEG
+
+the	O
+tables	B-T
+are	O
+crammed	B-P
+way	O
+too	B-P
+close	I-P
+,	O
+the	O
+menu	B-T
+is	O
+typical	B-P
+of	O
+any	O
+italian	O
+restaurant	O
+,	O
+and	O
+the	O
+wine	B-T
+list	I-T
+is	O
+simply	O
+overpriced	B-P
+.	O
+#Relations
+3	4	1	2	NEG
+5	7	1	2	NEG
+11	12	9	10	NEU
+23	24	19	21	NEG
+
+myagi	B-T
+is	O
+one	O
+of	O
+my	O
+favorite	B-P
+restaurants	O
+in	O
+the	O
+city	O
+;	O
+the	O
+place	O
+the	O
+negative	O
+reviews	O
+describe	O
+sound	O
+like	O
+they	O
+were	O
+somewhere	O
+else	O
+.	O
+#Relations
+5	6	0	1	POS
+
+i	O
+'ve	O
+never	B-P
+had	I-P
+bad	I-P
+service	B-T
+and	O
+the	O
+fish	B-T
+is	O
+fresh	B-P
+and	O
+delicious	B-P
+.	O
+#Relations
+2	5	5	6	POS
+10	11	8	9	POS
+12	13	8	9	POS
+
+i	O
+highly	O
+recommend	B-P
+to	O
+anyone	O
+to	O
+give	O
+this	O
+place	B-T
+a	O
+try	O
+.	O
+#Relations
+2	3	8	9	POS
+
+the	O
+service	B-T
+was	O
+impeccable	B-P
+and	O
+unobtrusive	B-P
+--	O
+the	O
+staff	O
+knows	O
+what	O
+they	O
+are	O
+there	O
+to	O
+do	O
+--	O
+to	O
+know	O
+their	O
+menu	O
+,	O
+present	O
+your	O
+meal	O
+,	O
+and	O
+attend	O
+to	O
+your	O
+needs	O
+.	O
+#Relations
+3	4	1	2	POS
+5	6	1	2	POS
+
+go	O
+to	O
+volare	O
+for	O
+1st	B-P
+class	I-P
+service	B-T
+and	O
+terrific	B-P
+food	B-T
+.	O
+#Relations
+4	6	6	7	POS
+8	9	9	10	POS
+
+drinks	B-T
+way	O
+over	B-P
+priced	I-P
+.	O
+#Relations
+2	4	0	1	NEG
+
+whenever	O
+you	O
+need	O
+a	O
+sushi	O
+fix	O
+,	O
+mizu	O
+will	O
+be	O
+there	O
+with	O
+quality	B-P
+fish	B-T
+and	O
+great	B-P
+service	B-T
+.	O
+#Relations
+12	13	13	14	POS
+15	16	16	17	POS
+
+i	O
+thought	O
+this	O
+place	B-T
+was	O
+totally	O
+overrated	B-P
+.	O
+#Relations
+6	7	3	4	NEG
+
+the	O
+food	B-T
+is	O
+delicious	B-P
+-	O
+from	O
+the	O
+specials	O
+to	O
+the	O
+regular	O
+menu-fare	O
+,	O
+the	O
+dishes	B-T
+are	O
+never	B-P
+a	I-P
+disappointment	I-P
+.	O
+#Relations
+3	4	1	2	POS
+16	19	14	15	POS
+
+if	O
+you	O
+go	O
+,	O
+try	B-P
+the	O
+marinara/arrabiatta	B-T
+sauce	I-T
+,	O
+the	O
+mozzarella	O
+en	O
+carozza	O
+is	O
+mmmmmmmm	O
+...	O
+..	O
+everything	O
+is	O
+just	O
+delicious	B-P
+.	O
+#Relations
+4	5	6	8	POS
+20	21	6	8	POS
+
+the	O
+hostess	B-T
+and	O
+the	O
+waitress	O
+were	O
+incredibly	O
+rude	B-P
+and	O
+did	O
+everything	O
+they	O
+could	O
+to	O
+rush	O
+us	O
+out	O
+.	O
+#Relations
+7	8	1	2	NEG
+
+do	O
+n't	O
+dine	O
+at	O
+tamarind	O
+for	O
+the	O
+vegetarian	B-T
+dishes	I-T
+,	O
+they	O
+are	O
+simply	O
+not	B-P
+up	I-P
+to	I-P
+par	I-P
+with	O
+the	O
+non-veg	O
+selections	O
+.	O
+#Relations
+13	17	7	9	NEG
+
+haru	B-T
+on	I-T
+park	I-T
+s	I-T
+is	O
+simply	O
+disgusting	B-P
+.	O
+#Relations
+6	7	0	4	NEG
+
+honestly	O
+the	O
+worst	B-P
+sushi	B-T
+my	O
+husband	O
+and	O
+i	O
+had	O
+in	O
+our	O
+entire	O
+lives	O
+.	O
+#Relations
+2	3	3	4	NEG
+
+the	O
+service	B-T
+was	O
+attentive	B-P
+.	O
+#Relations
+3	4	1	2	POS
+
+the	O
+food	B-T
+is	O
+tasty	B-P
+and	O
+portion	B-T
+sizes	I-T
+are	O
+appropriate	B-P
+.	O
+#Relations
+3	4	1	2	POS
+8	9	5	7	POS
+
+this	O
+is	O
+a	O
+nice	B-P
+restaurant	B-T
+if	O
+you	O
+are	O
+looking	O
+for	O
+a	O
+good	O
+place	O
+to	O
+host	O
+an	O
+intimate	O
+dinner	O
+meeting	O
+with	O
+business	O
+associates	O
+.	O
+#Relations
+3	4	4	5	POS
+
+love	B-P
+this	O
+place	B-T
+.	O
+#Relations
+0	1	2	3	POS
+
+the	O
+menu	B-T
+is	O
+limited	B-P
+but	O
+almost	O
+all	O
+of	O
+the	O
+dishes	B-T
+are	O
+excellent	B-P
+.	O
+#Relations
+3	4	1	2	NEG
+11	12	9	10	POS
+
+the	O
+lobster	B-T
+sandwich	I-T
+is	O
+good	B-P
+and	O
+the	O
+spaghetti	B-T
+with	I-T
+scallops	I-T
+and	I-T
+shrimp	I-T
+is	O
+great	B-P
+.	O
+#Relations
+4	5	1	3	POS
+13	14	7	12	POS
+
+the	O
+only	O
+fallback	B-P
+on	O
+this	O
+restaurant	B-T
+is	O
+the	O
+prices	O
+.	O
+#Relations
+2	3	5	6	NEG
+
+i	O
+loved	B-P
+this	O
+place	B-T
+!	O
+!	O
+#Relations
+1	2	3	4	POS
+
+the	O
+service	B-T
+was	O
+terrible	B-P
+,	O
+we	O
+had	O
+to	O
+wait	O
+for	O
+everything	O
+and	O
+ask	O
+several	O
+of	O
+different	O
+people	O
+for	O
+the	O
+same	O
+thing	O
+before	O
+we	O
+were	O
+allowed	O
+to	O
+be	O
+served	O
+.	O
+#Relations
+3	4	1	2	NEG
+
+i	O
+would	O
+definitely	O
+recommend	O
+sea	O
+if	O
+you	O
+like	B-P
+thai	B-T
+cuisine	I-T
+!	O
+#Relations
+7	8	8	10	POS
+
+i	O
+would	O
+highly	O
+recommend	B-P
+this	O
+place	B-T
+!	O
+#Relations
+3	4	5	6	POS
+
+the	O
+food	B-T
+is	O
+great	B-P
+and	O
+reasonably	B-P
+priced	I-P
+.	O
+#Relations
+3	4	1	2	POS
+5	7	1	2	POS
+
+considering	O
+we	O
+were	O
+the	O
+last	O
+patrons	O
+there	O
+and	O
+it	O
+was	O
+after	O
+the	O
+closing	O
+time	O
+,	O
+the	O
+waitstaff	B-T
+did	O
+not	O
+rush	O
+us	O
+at	O
+all	O
+and	O
+made	O
+us	O
+feel	O
+comfortable	B-P
+and	O
+relaxed	B-P
+.	O
+#Relations
+27	28	16	17	POS
+29	30	16	17	POS
+
+we	O
+ate	O
+out	O
+in	O
+the	O
+back	B-T
+patio	I-T
+,	O
+which	O
+is	O
+worth	B-P
+it	O
+as	O
+it	O
+'s	O
+cool	B-P
+and	O
+the	O
+music	B-T
+is	O
+hear	O
+well	B-P
+there	O
+.	O
+#Relations
+10	11	5	7	POS
+15	16	5	7	POS
+21	22	18	19	POS
+
+but	O
+the	O
+service	B-T
+was	O
+a	O
+bit	O
+slow	B-P
+.	O
+#Relations
+6	7	2	3	NEG
+
+i	O
+would	O
+recommend	B-P
+roxy	O
+'s	O
+for	O
+that	O
+,	O
+but	O
+not	O
+for	O
+their	O
+food	B-T
+.	O
+#Relations
+2	3	12	13	NEG
+
+we	O
+went	O
+here	O
+for	O
+lunch	O
+a	O
+couple	O
+of	O
+weeks	O
+ago	O
+on	O
+a	O
+saturday	O
+,	O
+and	O
+i	O
+was	O
+thoroughly	O
+impressed	B-P
+with	O
+the	O
+food	B-T
+.	O
+#Relations
+18	19	21	22	POS
+
+the	O
+pesto	B-T
+pizza	I-T
+was	O
+excellent	B-P
+,	O
+thin-crust	O
+pizza	O
+with	O
+a	O
+nice	B-P
+amount	O
+of	O
+spicy	B-T
+italian	I-T
+cheese	I-T
+that	O
+i	O
+'d	O
+never	O
+heard	O
+of	O
+before	O
+.	O
+#Relations
+4	5	1	3	POS
+10	11	13	16	POS
+
+it	O
+'s	O
+the	O
+only	O
+place	O
+you	O
+can	O
+get	O
+yummy	B-P
+authentic	I-P
+japanese	B-T
+comfort	I-T
+food	I-T
+.	O
+#Relations
+8	10	10	13	POS
+
+i	O
+am	O
+reluctant	O
+to	O
+write	O
+because	O
+i	O
+would	O
+not	O
+want	O
+my	O
+jem	O
+of	O
+a	O
+pizza	B-T
+place	I-T
+to	O
+become	O
+overcrowded	B-P
+.	O
+#Relations
+18	19	14	16	POS
+
+by	O
+far	O
+,	O
+the	O
+best	B-P
+pizza	B-T
+in	O
+manhattan	O
+.	O
+#Relations
+4	5	5	6	POS
+
+i	O
+highly	O
+recommend	B-P
+the	O
+sophia	B-T
+pizza	I-T
+.	O
+#Relations
+2	3	4	6	POS
+
+i	O
+expected	O
+quite	O
+a	O
+bit	O
+more	O
+from	O
+such	O
+an	O
+expensive	B-P
+menu	B-T
+.	O
+#Relations
+9	10	10	11	NEG
+
+delicious	B-P
+simple	I-P
+food	B-T
+in	O
+nice	B-P
+outdoor	B-T
+atmosphere	I-T
+.	O
+#Relations
+0	2	2	3	POS
+4	5	5	7	POS
+
+delicious	B-P
+crab	B-T
+cakes	I-T
+too	O
+.	O
+#Relations
+0	1	1	3	POS
+
+even	O
+if	O
+the	O
+food	B-T
+was	B-P
+n't	I-P
+this	I-P
+good	I-P
+,	O
+the	O
+garden	B-T
+is	O
+a	O
+great	B-P
+place	O
+to	O
+sit	O
+outside	O
+and	O
+relax	O
+.	O
+#Relations
+4	8	3	4	POS
+13	14	10	11	POS
+
+this	O
+is	O
+a	O
+nice	B-P
+pizza	B-T
+place	I-T
+with	O
+good	B-P
+selection	B-T
+of	I-T
+thin	I-T
+crust	I-T
+pizza	I-T
+including	O
+the	O
+basil	O
+slice	O
+.	O
+#Relations
+3	4	4	6	POS
+7	8	8	13	POS
+
+the	O
+counter	B-T
+service	I-T
+is	O
+bad	B-P
+.	O
+#Relations
+4	5	1	3	NEG
+
+the	O
+dosas	B-T
+are	O
+skimpy	B-P
+,	O
+unattractive	B-P
+and	O
+drip	O
+with	O
+grease	O
+,	O
+and	O
+personally	O
+i	O
+'d	O
+drink	O
+popcorn	O
+topping	O
+before	O
+i	O
+'d	O
+eat	O
+another	O
+one	O
+of	O
+these	O
+.	O
+#Relations
+3	4	1	2	NEG
+5	6	1	2	NEG
+
+unique	B-P
+apppetizers	B-T
+.	O
+#Relations
+0	1	1	2	POS
+
+good	B-P
+spreads	B-T
+,	O
+great	B-P
+beverage	B-T
+selections	I-T
+and	O
+bagels	B-T
+really	O
+tasty	B-P
+.	O
+#Relations
+0	1	1	2	POS
+3	4	4	6	POS
+9	10	7	8	POS
+
+i	O
+will	O
+be	O
+out	O
+with	O
+friends	O
+and	O
+all	O
+of	O
+a	O
+sudden	O
+i	O
+am	O
+hungry	O
+and	O
+i	O
+only	O
+crave	B-P
+one	O
+thing	O
+...	O
+their	O
+pizza	B-T
+.	O
+#Relations
+17	18	22	23	POS
+
+the	O
+turkey	B-T
+burgers	I-T
+are	O
+scary	B-P
+!	O
+#Relations
+4	5	1	3	NEG
+
+the	O
+sushi	B-T
+was	O
+awful	B-P
+!	O
+#Relations
+3	4	1	2	NEG
+
+if	O
+you	O
+like	B-P
+your	O
+music	B-T
+blasted	O
+and	O
+the	O
+system	O
+isnt	O
+that	O
+great	O
+and	O
+if	O
+you	O
+want	O
+to	O
+pay	O
+at	O
+least	O
+100	O
+dollar	O
+bottle	O
+minimun	O
+then	O
+you	O
+'ll	O
+love	O
+it	O
+here	O
+.	O
+#Relations
+2	3	4	5	NEG
+
+great	B-P
+atmoshere	B-T
+and	O
+worth	O
+every	O
+bit	O
+.	O
+#Relations
+0	1	1	2	POS
+
+its	O
+location	B-T
+is	O
+good	B-P
+and	O
+the	O
+fact	O
+that	O
+hutner	O
+college	O
+is	O
+near	O
+and	O
+their	O
+prices	O
+are	O
+very	O
+reasonable	B-P
+,	O
+makes	O
+students	O
+go	O
+back	O
+to	O
+suan	B-T
+again	O
+and	O
+again	O
+.	O
+#Relations
+3	4	1	2	POS
+17	18	24	25	POS
+
+noodles	B-T
+with	I-T
+shrimp	I-T
+and	I-T
+chicken	I-T
+and	I-T
+coconut	I-T
+juice	I-T
+is	O
+the	O
+must	B-P
+!	O
+#Relations
+10	11	0	8	POS
+
+during	O
+the	O
+course	O
+of	O
+the	O
+past	O
+3	O
+months	O
+,	O
+the	O
+chef	B-T
+and	O
+staff	O
+changed	B-P
+and	O
+it	O
+was	O
+not	O
+for	O
+the	O
+better	O
+.	O
+#Relations
+13	14	10	11	NEG
+
+the	O
+setting	B-T
+is	O
+casual	B-P
+and	O
+romantic	B-P
+.	O
+#Relations
+3	4	1	2	POS
+5	6	1	2	POS
+
+if	O
+you	O
+'re	O
+daring	O
+,	O
+try	B-P
+the	O
+balsamic	B-T
+vinegar	I-T
+over	I-T
+icecream	I-T
+,	O
+it	O
+'s	O
+wonderful	B-P
+!	O
+#Relations
+5	6	7	11	POS
+14	15	7	11	POS
+
+the	O
+rest	O
+of	O
+the	O
+dim	B-T
+sum	I-T
+,	O
+though	O
+pricey	B-P
+by	O
+chinatown	O
+standards	O
+,	O
+is	O
+worth	B-P
+it	O
+.	O
+#Relations
+8	9	4	6	POS
+14	15	4	6	POS
+
+the	O
+restaurant	B-T
+is	O
+a	O
+bit	O
+noisy	B-P
+but	O
+that	O
+is	O
+something	O
+that	O
+can	O
+be	O
+overlooked	O
+once	O
+you	O
+sit	O
+down	O
+and	O
+enjoy	B-P
+a	O
+great	B-P
+meal	B-T
+#Relations
+5	6	1	2	NEU
+19	20	22	23	POS
+21	22	22	23	POS
+
+this	O
+little	B-P
+place	B-T
+has	O
+a	O
+cute	B-P
+interior	B-T
+decor	I-T
+and	O
+affordable	O
+city	O
+prices	O
+.	O
+#Relations
+1	2	2	3	POS
+5	6	6	8	POS
+
+have	O
+eaten	O
+at	O
+ginger	B-T
+house	I-T
+several	O
+times	O
+,	O
+and	O
+it	O
+'s	O
+always	O
+good	B-P
+.	O
+#Relations
+12	13	3	5	POS
+
+the	O
+fried	B-T
+dumplings	I-T
+are	O
+great	B-P
+!	O
+#Relations
+4	5	1	3	POS
+
+the	O
+baked	B-T
+clams	I-T
+octopus	I-T
+we	O
+shared	O
+as	O
+appetizers	O
+were	O
+the	O
+best	B-P
+we	O
+'ve	O
+ever	O
+had	O
+!	O
+!	O
+#Relations
+10	11	1	4	POS
+
+small	B-P
+servings	B-T
+for	I-T
+main	I-T
+entree	I-T
+,	O
+i	O
+had	O
+salmon	B-T
+(	O
+wasnt	B-P
+impressed	I-P
+)	O
+girlfriend	O
+had	O
+chicken	B-T
+,	O
+it	O
+was	O
+good	B-P
+.	O
+#Relations
+0	1	1	5	NEG
+10	12	8	9	NEG
+19	20	15	16	POS
+
+still	O
+,	O
+any	O
+quibbles	O
+about	O
+the	O
+bill	O
+were	O
+off-set	O
+by	O
+the	O
+pour-your-own	B-P
+measures	B-T
+of	I-T
+liquers	I-T
+which	O
+were	O
+courtesey	B-P
+of	O
+the	O
+house	O
+...	O
+#Relations
+11	12	12	15	POS
+17	18	12	15	POS
+
+excellent	B-P
+spot	B-T
+for	O
+holiday	O
+get	O
+togethers	O
+with	O
+co-workers	O
+or	O
+friends	O
+that	O
+you	O
+have	O
+n't	O
+seen	O
+in	O
+a	O
+while	O
+.	O
+#Relations
+0	1	1	2	POS
+
+the	O
+shrimp	B-T
+scampi	I-T
+was	O
+excellent	B-P
+and	O
+the	O
+antipasti	B-T
+were	O
+plentiful	B-P
+.	O
+#Relations
+4	5	1	3	POS
+9	10	7	8	POS
+
+too	O
+bad	B-P
+the	O
+food	B-T
+was	O
+n't	O
+of	O
+the	O
+same	O
+heritage	O
+.	O
+#Relations
+1	2	3	4	NEG
+
+i	O
+also	O
+recommend	B-P
+the	O
+rice	B-T
+dishes	I-T
+or	O
+the	O
+different	O
+varieties	O
+of	O
+congee	O
+(	O
+rice	O
+porridge	O
+)	O
+.	O
+#Relations
+2	3	4	6	POS
+
+warm	O
+and	O
+friendly	O
+in	O
+the	O
+winter	O
+and	O
+terrific	B-P
+outdoor	B-T
+seating	I-T
+in	O
+the	O
+warmer	O
+months	O
+.	O
+#Relations
+7	8	8	10	POS
+
+service	B-T
+is	O
+friendly	B-P
+,	O
+and	O
+never	O
+had	O
+a	O
+problem	O
+walking	O
+in	O
+and	O
+getting	O
+a	O
+table	O
+.	O
+#Relations
+2	3	0	1	POS
+
+ravioli	B-T
+was	O
+good	B-P
+...	O
+but	O
+i	O
+have	O
+to	O
+say	O
+that	O
+i	O
+found	O
+everything	O
+a	O
+bit	O
+overpriced	B-P
+.	O
+#Relations
+2	3	0	1	POS
+15	16	0	1	POS
+
+not	B-P
+enough	I-P
+wines	B-T
+by	I-T
+the	I-T
+glass	I-T
+either	O
+.	O
+#Relations
+0	2	2	6	NEG
+
+service	B-T
+,	O
+however	O
+,	O
+was	O
+excellent	B-P
+...	O
+and	O
+i	O
+liked	B-P
+the	O
+setting/atmosphere	B-T
+a	O
+lot	O
+.	O
+#Relations
+5	6	0	1	POS
+9	10	11	12	POS
+
+food	B-T
+was	O
+just	O
+average	B-P
+...	O
+if	O
+they	O
+lowered	O
+the	O
+prices	O
+just	O
+a	O
+bit	O
+,	O
+it	O
+would	O
+be	O
+a	O
+bigger	O
+draw	O
+.	O
+#Relations
+3	4	0	1	NEG
+
+faan	B-T
+is	O
+sooo	O
+good	B-P
+.	O
+#Relations
+3	4	0	1	POS
+
+the	O
+mussles	B-T
+were	O
+the	O
+fishiest	B-P
+things	O
+i	O
+'ve	O
+ever	O
+tasted	O
+,	O
+the	O
+seabass	B-T
+was	O
+bland	B-P
+,	O
+the	O
+goat	B-T
+cheese	I-T
+salad	I-T
+was	O
+missing	B-P
+the	O
+goat	O
+cheese	O
+,	O
+the	O
+penne	B-T
+w/	I-T
+chicken	I-T
+had	O
+bones	O
+in	O
+it	O
+...	O
+it	O
+was	O
+disgusting	B-P
+.	O
+#Relations
+4	5	1	2	NEG
+14	15	12	13	NEG
+21	22	17	20	NEG
+37	38	27	30	NEG
+
+my	O
+fav	B-P
+was	O
+the	O
+sassy	B-T
+lassi	I-T
+...	O
+#Relations
+1	2	4	6	POS
+
+the	O
+portions	B-T
+are	O
+huge	B-P
+,	O
+so	O
+it	O
+might	O
+be	O
+good	O
+to	O
+order	O
+three	O
+things	O
+to	O
+split	O
+(	O
+rather	O
+than	O
+one	O
+appetizer	O
+and	O
+entree	O
+per	O
+person	O
+)	O
+for	O
+two	O
+people	O
+.	O
+#Relations
+3	4	1	2	POS
+
+the	O
+service	B-T
+is	O
+good	B-P
+and	O
+the	O
+resturant	B-T
+is	O
+clean	B-P
+.	O
+#Relations
+3	4	1	2	POS
+8	9	6	7	POS
+
+we	O
+recently	O
+decided	O
+to	O
+try	O
+this	O
+location	O
+,	O
+and	O
+to	O
+our	O
+delight	O
+,	O
+they	O
+have	O
+outdoor	B-T
+seating	I-T
+,	O
+perfect	B-P
+since	O
+i	O
+had	O
+my	O
+yorkie	O
+with	O
+me	O
+.	O
+#Relations
+18	19	15	17	POS
+
+excellent	B-P
+dumplings	B-T
+served	O
+amid	O
+clean	B-P
+,	O
+chic	B-P
+decor	B-T
+.	O
+#Relations
+0	1	1	2	POS
+4	5	7	8	POS
+6	7	7	8	POS
+
+the	O
+food	B-T
+was	O
+delicious	B-P
+but	O
+do	O
+not	O
+come	O
+here	O
+on	O
+a	O
+empty	O
+stomach	O
+.	O
+#Relations
+3	4	1	2	NEG
+
+great	B-P
+food	B-T
+and	O
+the	O
+prices	O
+are	O
+very	O
+reasonable	O
+.	O
+#Relations
+0	1	1	2	POS
+
+consistently	O
+good	B-P
+japanese	B-T
+tapas	I-T
+.	O
+#Relations
+1	2	2	4	POS
+
+atmosphere	B-T
+is	O
+nice	B-P
+and	O
+relaxed	B-P
+too	O
+...	O
+#Relations
+2	3	0	1	POS
+4	5	0	1	POS
+
+the	O
+food	B-T
+is	O
+okay	B-P
+and	O
+the	O
+prices	O
+here	O
+are	O
+mediocre	O
+.	O
+#Relations
+3	4	1	2	NEU
+
+there	O
+is	O
+no	O
+excuse	O
+for	O
+such	O
+lousy	B-P
+service	B-T
+!	O
+#Relations
+6	7	7	8	NEG
+
+i	O
+went	O
+to	O
+areo	B-T
+on	O
+a	O
+sunday	O
+afternoon	O
+with	O
+four	O
+of	O
+my	O
+girlfriends	O
+,	O
+and	O
+spent	O
+three	O
+enjoyable	B-P
+hours	O
+there	O
+.	O
+#Relations
+17	18	3	4	POS
+
+the	O
+vibe	B-T
+is	O
+very	O
+relaxed	B-P
+and	O
+cozy	B-P
+,	O
+service	B-T
+was	O
+great	B-P
+and	O
+the	O
+food	B-T
+was	O
+excellent	B-P
+!	O
+#Relations
+4	5	1	2	POS
+6	7	1	2	POS
+10	11	8	9	POS
+15	16	13	14	POS
+
+food	B-T
+was	O
+good	B-P
+and	O
+the	O
+view	B-T
+of	I-T
+the	I-T
+new	I-T
+york	I-T
+city	I-T
+skiline	I-T
+was	O
+terrific	B-P
+even	O
+on	O
+a	O
+foggy	O
+rainy	O
+day	O
+like	O
+that	O
+of	O
+when	O
+i	O
+went	O
+.	O
+#Relations
+2	3	0	1	POS
+13	14	5	12	POS
+
+we	O
+were	O
+4	O
+and	O
+got	O
+the	O
+family	O
+size	O
+penne	B-T
+a	I-T
+la	I-T
+vodka	I-T
+which	O
+was	O
+tremendously	O
+gigantic	B-P
+portion	O
+...	O
+a	O
+bucket	O
+of	O
+food	O
+literally	O
+.	O
+#Relations
+15	16	8	12	POS
+
+i	O
+found	O
+it	O
+on	O
+a	O
+cold	O
+night	O
+,	O
+the	O
+perfect	B-P
+spot	B-T
+to	O
+warm	O
+up	O
+.	O
+#Relations
+9	10	10	11	POS
+
+i	O
+recieved	O
+prompt	B-P
+service	B-T
+with	O
+a	O
+smile	O
+.	O
+#Relations
+2	3	3	4	POS
+
+i	O
+'ve	O
+also	O
+been	O
+amazed	O
+at	O
+all	O
+the	O
+new	O
+additions	O
+in	O
+the	O
+past	O
+few	O
+years	O
+:	O
+a	O
+new	B-P
+jazz	B-T
+bar	I-T
+,	O
+the	O
+most	O
+fantastic	B-P
+dining	B-T
+garden	I-T
+,	O
+the	O
+best	B-P
+thin	B-T
+crust	I-T
+pizzas	I-T
+,	O
+and	O
+now	O
+a	O
+lasagna	B-T
+menu	I-T
+which	O
+is	O
+to	O
+die	B-P
+for	I-P
+(	O
+these	O
+are	O
+not	O
+your	O
+average	O
+lasagnas	O
+)	O
+!	O
+#Relations
+17	18	18	20	POS
+23	24	24	26	POS
+28	29	29	32	POS
+41	43	36	38	POS
+
+we	O
+could	O
+have	O
+made	O
+a	O
+meal	O
+of	O
+the	O
+yummy	B-P
+dumplings	B-T
+from	O
+the	O
+dumpling	O
+menu	O
+.	O
+#Relations
+8	9	9	10	POS
+
+it	O
+was	O
+totally	O
+overpriced	B-P
+-	O
+fish	B-T
+and	I-T
+chips	I-T
+was	O
+about	O
+$	O
+15	O
+...	O
+.	O
+#Relations
+3	4	5	8	NEG
+
+tasty	B-P
+dog	B-T
+!	O
+#Relations
+0	1	1	2	POS
+
+we	O
+had	O
+half/half	B-T
+pizza	I-T
+,	O
+mine	O
+was	O
+eggplant	O
+and	O
+my	O
+friend	O
+had	O
+the	O
+buffalo	O
+and	O
+it	O
+was	O
+sooo	O
+huge	B-P
+for	O
+a	O
+small	O
+size	O
+pizza	O
+!	O
+#Relations
+18	19	2	4	POS
+
+delivery	B-T
+can	O
+be	O
+spot	O
+on	O
+or	O
+lacking	B-P
+depending	O
+on	O
+the	O
+weather	O
+and	O
+the	O
+day	O
+of	O
+the	O
+week	O
+.	O
+#Relations
+6	7	0	1	NEG
+
+delivery	B-T
+guy	I-T
+sometimes	O
+get	O
+upset	B-P
+if	O
+you	O
+do	O
+n't	O
+tip	O
+more	O
+than	O
+10	O
+%	O
+.	O
+#Relations
+4	5	0	2	NEG
+
+excellent	B-P
+sashimi	B-T
+,	O
+and	O
+the	O
+millennium	B-T
+roll	I-T
+is	O
+beyond	O
+delicious	B-P
+.	O
+#Relations
+0	1	1	2	POS
+9	10	5	7	POS
+
+the	O
+place	B-T
+is	O
+a	O
+bit	O
+hidden	B-P
+away	I-P
+,	O
+but	O
+once	O
+you	O
+get	O
+there	O
+,	O
+it	O
+'s	O
+all	O
+worth	B-P
+it	O
+.	O
+#Relations
+5	7	1	2	POS
+17	18	1	2	POS
+
+excellent	B-P
+food	B-T
+for	O
+great	O
+prices	O
+#Relations
+0	1	1	2	POS
+
+the	O
+wait	B-T
+staff	I-T
+is	O
+very	O
+courteous	B-P
+and	O
+accomodating	B-P
+.	O
+#Relations
+5	6	1	3	POS
+7	8	1	3	POS
+
+i	O
+love	B-P
+their	O
+chicken	B-T
+pasta	I-T
+cant	O
+remember	O
+the	O
+name	O
+but	O
+is	O
+sooo	O
+good	O
+#Relations
+1	2	3	5	POS
+
+i	O
+think	O
+the	O
+pizza	B-T
+is	O
+so	O
+overrated	B-P
+and	O
+was	O
+under	B-P
+cooked	I-P
+.	O
+#Relations
+6	7	3	4	NEG
+9	11	3	4	NEG
+
+the	O
+service	B-T
+was	O
+quick	B-P
+and	O
+friendly	B-P
+.	O
+#Relations
+3	4	1	2	POS
+5	6	1	2	POS
+
+i	O
+ordered	O
+the	O
+vitello	B-T
+alla	I-T
+marsala	I-T
+and	O
+i	O
+was	O
+pretty	O
+impressed	B-P
+.	O
+#Relations
+10	11	3	6	POS
+
+red	B-T
+dragon	I-T
+roll	I-T
+-	O
+my	O
+favorite	B-P
+thing	O
+to	O
+eat	O
+,	O
+of	O
+any	O
+food	O
+group	O
+-	O
+hands	O
+down	O
+#Relations
+5	6	0	3	POS
+
+in	O
+the	O
+summer	O
+months	O
+,	O
+the	O
+back	B-T
+garden	I-T
+area	I-T
+is	O
+really	O
+nice	B-P
+.	O
+#Relations
+11	12	6	9	POS
+
+great	B-P
+indian	B-T
+food	I-T
+!	O
+#Relations
+0	1	1	3	POS
+
+this	O
+is	O
+one	O
+of	O
+my	O
+favorite	O
+spot	O
+,	O
+very	O
+relaxing	O
+the	O
+food	B-T
+is	O
+great	B-P
+all	O
+the	O
+times	O
+,	O
+celebrated	O
+my	O
+engagement	O
+and	O
+my	O
+wedding	O
+here	O
+,	O
+it	O
+was	O
+very	O
+well	O
+organized	O
+.	O
+#Relations
+13	14	11	12	POS
+
+i	O
+highly	O
+recommend	B-P
+this	O
+beautiful	B-P
+place	B-T
+.	O
+#Relations
+2	3	5	6	POS
+4	5	5	6	POS
+
+nice	B-P
+view	B-T
+of	I-T
+river	I-T
+and	I-T
+nyc	I-T
+.	O
+#Relations
+0	1	1	6	POS
+
+a	O
+beautifully	O
+designed	O
+dreamy	B-P
+egyptian	B-T
+restaurant	I-T
+that	O
+gets	O
+sceney	O
+at	O
+night	O
+.	O
+#Relations
+3	4	4	6	POS
+
+the	O
+drinks	B-T
+are	O
+great	B-P
+,	O
+especially	O
+when	O
+made	O
+by	O
+raymond	O
+.	O
+#Relations
+3	4	1	2	POS
+
+quacamole	B-T
+at	O
+pacifico	O
+is	O
+yummy	B-P
+,	O
+as	O
+are	O
+the	O
+wings	O
+with	O
+chimmichuri	O
+.	O
+#Relations
+4	5	0	1	POS
+
+also	O
+,	O
+i	O
+personally	O
+was	O
+n't	O
+a	O
+fan	B-P
+of	O
+the	O
+portobello	B-T
+and	I-T
+asparagus	I-T
+mole	I-T
+.	O
+#Relations
+7	8	10	14	NEG
+
+this	O
+small	O
+astoria	O
+souvlaki	O
+spot	O
+makes	O
+what	O
+many	O
+consider	O
+the	O
+best	B-P
+gyros	B-T
+in	O
+new	O
+york	O
+.	O
+#Relations
+10	11	11	12	POS
+
+what	O
+really	O
+makes	O
+it	O
+shine	B-P
+is	O
+the	O
+food	B-T
+,	O
+which	O
+is	O
+aggressively	O
+seasoned	O
+with	O
+cyrpriot	O
+spices	O
+,	O
+and	O
+all	O
+made	O
+in-house	B-P
+(	O
+even	O
+the	O
+gyro	B-T
+meat	I-T
+and	O
+sausages	O
+)	O
+,	O
+and	O
+made	O
+of	O
+much	O
+higher	B-P
+quality	I-P
+ingredients	B-T
+that	O
+might	O
+otherwise	O
+be	O
+expected	O
+.	O
+#Relations
+4	5	7	8	POS
+20	21	24	26	POS
+34	36	36	37	POS
+
+great	B-P
+food	B-T
+,	O
+amazing	B-P
+service	B-T
+,	O
+this	O
+place	B-T
+is	O
+a	O
+class	B-P
+act	I-P
+.	O
+#Relations
+0	1	1	2	POS
+3	4	4	5	POS
+10	12	7	8	POS
+
+service	B-T
+ok	B-P
+but	O
+unfriendly	B-P
+,	O
+filthy	B-P
+bathroom	B-T
+.	O
+#Relations
+1	2	0	1	NEG
+3	4	0	1	NEG
+5	6	6	7	NEG
+
+the	O
+bread	B-T
+we	O
+received	O
+was	O
+horrible	B-P
+-	O
+rock	B-P
+hard	I-P
+and	O
+cold	B-P
+-	O
+and	O
+the	O
+``	O
+free	O
+''	O
+appetizer	B-T
+of	I-T
+olives	I-T
+was	O
+disappointing	B-P
+.	O
+#Relations
+5	6	1	2	NEG
+7	9	1	2	NEG
+10	11	1	2	NEG
+21	22	17	20	NEG
+
+the	O
+service	B-T
+was	O
+extremely	O
+fast	B-P
+and	O
+attentive	B-P
+(	O
+thanks	B-P
+to	I-P
+the	O
+service	B-T
+button	I-T
+on	O
+your	O
+table	O
+)	O
+but	O
+i	O
+barely	B-P
+understood	I-P
+1	O
+word	O
+when	O
+the	O
+waiter	B-T
+took	O
+our	O
+order	O
+.	O
+#Relations
+4	5	1	2	POS
+6	7	1	2	POS
+8	10	11	13	POS
+19	21	25	26	NEG
+
+over	O
+all	O
+the	O
+looks	B-T
+of	O
+the	O
+place	O
+exceeds	B-P
+the	O
+actual	O
+meals	O
+.	O
+#Relations
+7	8	3	4	POS
+
+i	O
+go	O
+out	O
+to	O
+eat	O
+and	O
+like	O
+my	O
+courses	O
+,	O
+servers	B-T
+are	O
+patient	B-P
+and	O
+never	O
+rush	O
+courses	O
+or	O
+force	O
+another	O
+drink	O
+.	O
+#Relations
+12	13	10	11	POS
+
+food	B-T
+took	O
+some	O
+time	O
+to	O
+prepare	O
+,	O
+all	O
+worth	B-P
+waiting	O
+for	O
+.	O
+#Relations
+8	9	0	1	POS
+
+i	O
+never	O
+write	O
+on	O
+these	O
+sites	O
+but	O
+this	O
+restaurant	B-T
+is	O
+def	O
+worth	B-P
+commending	O
+!	O
+#Relations
+11	12	8	9	POS
+
+yamato	B-T
+is	O
+an	O
+excellent	B-P
+place	O
+to	O
+go	O
+if	O
+youre	O
+not	O
+into	O
+sashimi	O
+,	O
+or	O
+if	O
+you	O
+have	O
+friends	O
+who	O
+doesnt	O
+like	O
+sushi	O
+much	O
+.	O
+#Relations
+3	4	0	1	POS
+
+one	O
+special	B-T
+roll	I-T
+and	O
+one	O
+regular	O
+roll	O
+is	O
+enough	B-P
+to	O
+fill	O
+you	O
+up	O
+,	O
+but	O
+save	B-P
+room	I-P
+for	O
+dessert	B-T
+!	O
+#Relations
+8	9	1	3	POS
+15	17	18	19	POS
+
+amazing	B-P
+food	B-T
+.	O
+#Relations
+0	1	1	2	POS
+
+indo	B-T
+chinese	I-T
+food	I-T
+,	O
+pretty	O
+good	B-P
+...	O
+#Relations
+5	6	0	3	POS
+
+my	O
+mom	O
+originally	O
+introduced	O
+me	O
+to	O
+this	O
+place	O
+,	O
+but	O
+even	O
+she	O
+(	O
+being	O
+indian	O
+)	O
+feels	O
+the	O
+food	B-T
+can	O
+be	O
+somewhat	O
+over	O
+the	O
+top	O
+spicy	B-P
+and	O
+far	O
+too	O
+oily	B-P
+.	O
+#Relations
+25	26	18	19	NEG
+29	30	18	19	NEG
+
+great	B-P
+hot	B-T
+dogs	I-T
+.	O
+#Relations
+0	1	1	3	POS
+
+i	O
+literally	O
+just	O
+got	O
+back	O
+home	O
+after	O
+visiting	O
+casa	B-T
+la	I-T
+femme	I-T
+and	O
+was	O
+so	O
+offended	B-P
+by	O
+my	O
+visit	O
+felt	O
+it	O
+necessary	O
+to	O
+try	O
+and	O
+warn	O
+other	O
+diners	O
+who	O
+value	O
+their	O
+money	O
+and	O
+time	O
+.	O
+#Relations
+14	15	8	11	NEG
+
+if	O
+it	O
+seemed	O
+possible	O
+to	O
+do	O
+so	O
+while	O
+there	O
+i	O
+would	O
+have	O
+fought	O
+my	O
+bill	O
+since	O
+my	O
+dinner	O
+portion	O
+of	O
+my	O
+meal	B-T
+was	O
+inedible	B-P
+!	O
+#Relations
+23	24	21	22	NEG
+
+there	O
+was	O
+no	O
+tap	O
+beer	B-T
+that	O
+evening	O
+,	O
+which	O
+was	O
+a	O
+disappointment	B-P
+.	O
+#Relations
+11	12	4	5	NEG
+
+service	B-T
+not	B-P
+the	I-P
+friendliest	I-P
+to	O
+our	O
+``	O
+large	O
+party	O
+''	O
+!	O
+#Relations
+1	4	0	1	NEG
+
+bukhara	B-T
+is	O
+on	O
+my	O
+top	B-P
+5	O
+indian	O
+places	O
+in	O
+nyc	O
+#Relations
+4	5	0	1	POS
+
+however	O
+,	O
+once	O
+i	O
+received	O
+my	O
+predictably	O
+mediocre	B-P
+order	O
+of	O
+what	O
+dokebi	O
+thinks	O
+passes	O
+as	O
+korean	B-T
+fair	I-T
+,	O
+(	O
+sometimes	O
+you	O
+have	O
+to	O
+settle	O
+when	O
+it	O
+'s	O
+your	O
+only	O
+option	O
+)	O
+,	O
+i	O
+got	O
+through	O
+about	O
+half	O
+my	O
+kimchee	B-T
+before	O
+i	O
+found	O
+a	O
+piece	O
+of	O
+random	O
+lettuce	O
+accompanied	O
+by	O
+a	O
+far	O
+more	O
+disgusting	B-P
+,	O
+slimy	O
+,	O
+clearly	O
+bad	O
+piece	O
+of	O
+fish	O
+skin	O
+.	O
+#Relations
+7	8	15	17	NEG
+52	53	38	39	NEG
+
+i	O
+completely	O
+recommend	B-P
+casa	B-T
+la	I-T
+femme	I-T
+for	O
+any	O
+special	O
+occasion	O
+and	O
+to	O
+really	O
+impress	O
+your	O
+date	O
+.	O
+#Relations
+2	3	3	6	POS
+
+love	B-P
+this	O
+place	B-T
+,	O
+every	O
+time	O
+we	O
+are	O
+in	O
+the	O
+city	O
+this	O
+is	O
+one	O
+of	O
+the	O
+places	O
+we	O
+always	O
+go	O
+.	O
+#Relations
+0	1	2	3	POS
+
+a	O
+quintessential	B-P
+slice	B-T
+of	I-T
+nyc	I-T
+pizza	I-T
+.	O
+#Relations
+1	2	2	6	NEU
+
+if	O
+you	O
+’	O
+re	O
+planning	O
+to	O
+come	O
+here	O
+,	O
+make	O
+sure	O
+that	O
+your	O
+date	O
+is	O
+someone	O
+whom	O
+you	O
+really	O
+like	O
+since	O
+you	O
+’	O
+ll	O
+be	O
+ushered	B-P
+to	O
+private	B-T
+booths	I-T
+where	O
+there	O
+will	O
+be	O
+no	O
+people	O
+or	O
+food	O
+watching	O
+(	O
+choose	O
+the	O
+ones	O
+on	O
+the	O
+ground	O
+level	O
+that	O
+have	O
+glass	O
+ceilings	O
+so	O
+you	O
+may	O
+see	O
+the	O
+stars	O
+in	O
+the	O
+sky	O
+!	O
+)	O
+.	O
+#Relations
+25	26	27	29	POS
+
+i	O
+picked	O
+the	O
+grilled	B-T
+black	I-T
+cod	I-T
+as	O
+my	O
+entree	O
+,	O
+which	O
+i	O
+absolutely	O
+devoured	B-P
+while	O
+someone	O
+commented	O
+that	O
+the	O
+grilled	B-T
+salmon	I-T
+dish	I-T
+was	O
+better	B-P
+.	O
+#Relations
+13	14	3	6	POS
+23	24	19	22	POS
+
+maybe	O
+it	O
+was	O
+the	O
+great	O
+company	O
+(	O
+i	O
+had	O
+friends	O
+visiting	O
+from	O
+philly	O
+–	O
+yes	O
+,	O
+it	O
+was	O
+not	O
+a	O
+date	O
+this	O
+time	O
+)	O
+or	O
+the	O
+super	O
+reasonable	O
+price	O
+point	O
+,	O
+but	O
+i	O
+just	O
+can	O
+’	O
+t	O
+say	O
+enough	O
+good	B-P
+things	O
+about	O
+this	O
+brasserie	B-T
+.	O
+#Relations
+39	40	43	44	POS
+
+the	O
+service	B-T
+leaves	B-P
+much	I-P
+to	I-P
+be	I-P
+desired	I-P
+,	O
+from	O
+feeling	O
+like	O
+you	O
+are	O
+rushed	O
+the	O
+place	O
+your	O
+order	O
+,	O
+to	O
+being	O
+ignored	O
+the	O
+rest	O
+of	O
+the	O
+night	O
+.	O
+#Relations
+2	7	1	2	NEG
+
+dokebi	O
+gives	O
+williamsburg	O
+the	O
+right	O
+one-two	O
+punch	O
+of	O
+classic	B-P
+korean	B-T
+food	I-T
+and	O
+fusion	O
+twists	O
+like	O
+pork	O
+belly	O
+tacos	O
+.	O
+#Relations
+8	9	9	11	POS
+
+this	O
+place	B-T
+is	O
+not	B-P
+inviting	I-P
+and	O
+the	O
+food	B-T
+is	O
+totally	O
+weird	B-P
+.	O
+#Relations
+3	5	1	2	NEG
+10	11	7	8	NEG
+
+good	B-P
+food	B-T
+#Relations
+0	1	1	2	POS
+
+our	O
+waitress	B-T
+was	B-P
+n't	I-P
+mean	I-P
+,	O
+but	O
+not	B-P
+especially	I-P
+warm	I-P
+or	I-P
+attentive	I-P
+either	O
+.	O
+#Relations
+2	5	1	2	NEU
+7	12	1	2	NEU
+
+the	O
+servers	B-T
+at	O
+flatbush	O
+farm	O
+appear	O
+to	O
+have	O
+perfected	B-P
+that	O
+ghastly	O
+technique	O
+of	O
+making	O
+you	O
+feel	O
+guilty	O
+and	O
+ashamed	O
+for	O
+deigning	O
+to	O
+attract	O
+their	O
+attention	O
+.	O
+#Relations
+8	9	1	2	NEG
+
+overall	O
+the	O
+food	B-T
+quality	O
+was	O
+pretty	O
+good	B-P
+,	O
+though	O
+i	O
+hear	O
+the	O
+salmon	O
+is	O
+much	O
+better	O
+when	O
+it	O
+has	O
+n't	O
+sat	O
+cooling	O
+in	O
+front	O
+of	O
+the	O
+guest	O
+.	O
+#Relations
+6	7	2	3	POS
+
+everything	O
+was	O
+going	O
+good	B-P
+until	O
+we	O
+got	O
+our	O
+meals	B-T
+.	O
+#Relations
+3	4	8	9	NEG
+
+this	O
+staff	B-T
+should	O
+be	O
+fired	B-P
+.	O
+#Relations
+4	5	1	2	NEG
+
+it	O
+was	O
+really	O
+good	B-P
+pizza	B-T
+.	O
+#Relations
+3	4	4	5	POS
+
+i	O
+had	O
+the	O
+lamb	B-T
+special	I-T
+which	O
+was	O
+perfect	B-P
+.	O
+#Relations
+7	8	3	5	POS
+
+the	B-T
+four	I-T
+seasons	I-T
+restaurant	I-T
+is	O
+a	O
+great	B-P
+experience	O
+.	O
+#Relations
+6	7	0	4	POS
+
+the	O
+food	B-T
+is	O
+very	O
+good	B-P
+,	O
+but	O
+not	B-P
+outstanding	I-P
+.	O
+#Relations
+4	5	1	2	NEU
+7	9	1	2	NEU
+
+the	O
+pasta	B-T
+was	O
+well	B-P
+cooked	I-P
+,	O
+did	O
+n't	O
+have	O
+enough	O
+sauce	O
+though	O
+or	O
+flavor	O
+.	O
+#Relations
+3	5	1	2	NEG
+
+the	O
+hostess	B-T
+was	O
+rude	B-P
+and	O
+i	O
+got	O
+a	O
+distinct	O
+feeling	O
+that	O
+they	O
+did	O
+not	O
+want	O
+to	O
+serve	O
+us	O
+.	O
+#Relations
+3	4	1	2	NEG
+
